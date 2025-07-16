@@ -1,0 +1,5150 @@
+[
+  {
+    "japan": "あんた",
+    "writing": "anta",
+    "indonesia": "anda",
+    "english": "you"
+  },
+  {
+    "japan": "あなた",
+    "writing": "anata",
+    "indonesia": "anda",
+    "english": "you"
+  },
+  {
+    "japan": "みんなさん",
+    "writing": "minnasan",
+    "indonesia": "setiap orang",
+    "english": "everyone"
+  },
+  {
+    "japan": "はいざら",
+    "writing": "haizara",
+    "indonesia": "tidak",
+    "english": "no"
+  },
+  {
+    "japan": "なんさい",
+    "writing": "nansai",
+    "indonesia": "apa",
+    "english": "what"
+  },
+  {
+    "japan": "ほん",
+    "writing": "hon",
+    "indonesia": "buku",
+    "english": "book"
+  },
+  {
+    "japan": "はい",
+    "writing": "hai",
+    "indonesia": "ya",
+    "english": "yes"
+  },
+  {
+    "japan": "まど",
+    "writing": "mado",
+    "indonesia": "jendela",
+    "english": "window"
+  },
+  {
+    "japan": "にほん",
+    "writing": "nihon",
+    "indonesia": "jepang",
+    "english": "japan"
+  },
+  {
+    "japan": "せんもん",
+    "writing": "senmon",
+    "indonesia": "senmon",
+    "english": "senmon"
+  },
+  {
+    "japan": "わたしたち",
+    "writing": "watashitachi",
+    "indonesia": "kami",
+    "english": "we"
+  },
+  {
+    "japan": "かみ",
+    "writing": "kami",
+    "indonesia": "kertas",
+    "english": "paper"
+  },
+  {
+    "japan": "しんぶん",
+    "writing": "shinbun",
+    "indonesia": "shinbun",
+    "english": "shinbun"
+  },
+  {
+    "japan": "かんこく",
+    "writing": "kankoku",
+    "indonesia": "korea",
+    "english": "korea"
+  },
+  {
+    "japan": "はこ",
+    "writing": "hako",
+    "indonesia": "hako",
+    "english": "hako"
+  },
+  {
+    "japan": "かぎ",
+    "writing": "kagi",
+    "indonesia": "pin",
+    "english": "a pin"
+  },
+  {
+    "japan": "いす",
+    "writing": "isu",
+    "indonesia": "kursi",
+    "english": "chair"
+  },
+  {
+    "japan": "でんき",
+    "writing": "denki",
+    "indonesia": "listrik",
+    "english": "electricity"
+  },
+  {
+    "japan": "つくえ",
+    "writing": "tsukue",
+    "indonesia": "buatlah",
+    "english": "make it"
+  },
+  {
+    "japan": "きかい",
+    "writing": "kikai",
+    "indonesia": "mesin",
+    "english": "machine"
+  },
+  {
+    "japan": "くるま",
+    "writing": "kuruma",
+    "indonesia": "mobil",
+    "english": "car"
+  },
+  {
+    "japan": "あのひと",
+    "writing": "anohito",
+    "indonesia": "orang itu",
+    "english": "that person"
+  },
+  {
+    "japan": "えんぴつ",
+    "writing": "enpitsu",
+    "indonesia": "pensil",
+    "english": "pencil"
+  },
+  {
+    "japan": "たばこ",
+    "writing": "tabako",
+    "indonesia": "tembakau",
+    "english": "tobacco"
+  },
+  {
+    "japan": "わたし",
+    "writing": "watashi",
+    "indonesia": "saya",
+    "english": "i"
+  },
+  {
+    "japan": "こんばんは",
+    "writing": "konbanha",
+    "indonesia": "selamat malam",
+    "english": "good evening"
+  },
+  {
+    "japan": "おはようございます",
+    "writing": "ohayougozaimasu",
+    "indonesia": "selamat pagi",
+    "english": "good morning"
+  },
+  {
+    "japan": "こんにちは",
+    "writing": "konnichiha",
+    "indonesia": "halo",
+    "english": "hello"
+  },
+  {
+    "japan": "だれ",
+    "writing": "dare",
+    "indonesia": "who",
+    "english": "who"
+  },
+  {
+    "japan": "てがみ",
+    "writing": "tegami",
+    "indonesia": "seorang pria",
+    "english": "a man"
+  },
+  {
+    "japan": "かばん",
+    "writing": "kaban",
+    "indonesia": "tas",
+    "english": "bag"
+  },
+  {
+    "japan": "でんわ",
+    "writing": "denwa",
+    "indonesia": "telepon",
+    "english": "phone"
+  },
+  {
+    "japan": "いいえ",
+    "writing": "iie",
+    "indonesia": "tidak",
+    "english": "no"
+  },
+  {
+    "japan": "ごぜん",
+    "writing": "gozen",
+    "indonesia": "nozomi",
+    "english": "nozomi"
+  },
+  {
+    "japan": "なん",
+    "writing": "nan",
+    "indonesia": "apa",
+    "english": "what"
+  },
+  {
+    "japan": "なに",
+    "writing": "nani",
+    "indonesia": "apa",
+    "english": "what"
+  },
+  {
+    "japan": "うけつけ",
+    "writing": "uketsuke",
+    "indonesia": "saya akan menerimanya",
+    "english": "i'll take it"
+  },
+  {
+    "japan": "おきます",
+    "writing": "okimasu",
+    "indonesia": "saya akan meninggalkannya",
+    "english": "i'll leave it"
+  },
+  {
+    "japan": "とう",
+    "writing": "tou",
+    "indonesia": "menara",
+    "english": "tower"
+  },
+  {
+    "japan": "はたらきます",
+    "writing": "hatarakimasu",
+    "indonesia": "itu berhasil",
+    "english": "it works"
+  },
+  {
+    "japan": "いくら",
+    "writing": "ikura",
+    "indonesia": "berapa harganya",
+    "english": "how much"
+  },
+  {
+    "japan": "やすみます",
+    "writing": "yasumimasu",
+    "indonesia": "selamat malam",
+    "english": "good night"
+  },
+  {
+    "japan": "どこ",
+    "writing": "doko",
+    "indonesia": "di mana",
+    "english": "where"
+  },
+  {
+    "japan": "おととい",
+    "writing": "ototoi",
+    "indonesia": "kemarin",
+    "english": "yesterday"
+  },
+  {
+    "japan": "おわいます",
+    "writing": "owaimasu",
+    "indonesia": "saya akan menyelesaikannya",
+    "english": "i'll finish"
+  },
+  {
+    "japan": "にわ",
+    "writing": "niwa",
+    "indonesia": "niwa",
+    "english": "niwa"
+  },
+  {
+    "japan": "ごじ",
+    "writing": "goji",
+    "indonesia": "goji",
+    "english": "goji"
+  },
+  {
+    "japan": "なんじ",
+    "writing": "nanji",
+    "indonesia": "apa",
+    "english": "what"
+  },
+  {
+    "japan": "へや",
+    "writing": "heya",
+    "indonesia": "ruang",
+    "english": "room"
+  },
+  {
+    "japan": "おてあらい",
+    "writing": "otearai",
+    "indonesia": "ote",
+    "english": "ote"
+  },
+  {
+    "japan": "おて",
+    "writing": "ote",
+    "indonesia": "otoko",
+    "english": "otoko"
+  },
+  {
+    "japan": "きのう",
+    "writing": "kinou",
+    "indonesia": "kemarin",
+    "english": "yesterday"
+  },
+  {
+    "japan": "すみません",
+    "writing": "sumimasen",
+    "indonesia": "maaf",
+    "english": "sorry"
+  },
+  {
+    "japan": "よる",
+    "writing": "yoru",
+    "indonesia": "malam",
+    "english": "evening"
+  },
+  {
+    "japan": "ばん",
+    "writing": "ban",
+    "indonesia": "melarang",
+    "english": "ban"
+  },
+  {
+    "japan": "おねがいします",
+    "writing": "onegaishimasu",
+    "indonesia": "silakan",
+    "english": "please"
+  },
+  {
+    "japan": "くこ",
+    "writing": "kuko",
+    "indonesia": "kuko",
+    "english": "kuko"
+  },
+  {
+    "japan": "くに",
+    "writing": "kuni",
+    "indonesia": "kuni",
+    "english": "kuni"
+  },
+  {
+    "japan": "あさ",
+    "writing": "asa",
+    "indonesia": "pagi",
+    "english": "morning"
+  },
+  {
+    "japan": "ごご",
+    "writing": "gogo",
+    "indonesia": "silakan",
+    "english": "please"
+  },
+  {
+    "japan": "うち",
+    "writing": "uchi",
+    "indonesia": "rumah",
+    "english": "home"
+  },
+  {
+    "japan": "いえ",
+    "writing": "ie",
+    "indonesia": "rumah",
+    "english": "home"
+  },
+  {
+    "japan": "いま",
+    "writing": "ima",
+    "indonesia": "sekarang",
+    "english": "now"
+  },
+  {
+    "japan": "いちまん",
+    "writing": "ichiman",
+    "indonesia": "ichiman",
+    "english": "ichiman"
+  },
+  {
+    "japan": "まん",
+    "writing": "man",
+    "indonesia": "penuh",
+    "english": "full"
+  },
+  {
+    "japan": "せん",
+    "writing": "sen",
+    "indonesia": "steker",
+    "english": "plug"
+  },
+  {
+    "japan": "ひる",
+    "writing": "hiru",
+    "indonesia": "membalik",
+    "english": "flip"
+  },
+  {
+    "japan": "どうぞ",
+    "writing": "douzo",
+    "indonesia": "tolong",
+    "english": "please"
+  },
+  {
+    "japan": "うりば",
+    "writing": "uriba",
+    "indonesia": "uriba",
+    "english": "uriba"
+  },
+  {
+    "japan": "ありがとうございます",
+    "writing": "arigatougozaimasu",
+    "indonesia": "terima kasih",
+    "english": "thank you"
+  },
+  {
+    "japan": "ちがいます",
+    "writing": "chigaimasu",
+    "indonesia": "itu berbeda",
+    "english": "it's different"
+  },
+  {
+    "japan": "ねます",
+    "writing": "nemasu",
+    "indonesia": "saya akan datang",
+    "english": "i'll come"
+  },
+  {
+    "japan": "ください",
+    "writing": "kudasai",
+    "indonesia": "tolong",
+    "english": "please"
+  },
+  {
+    "japan": "ちがいまづ",
+    "writing": "chigaimazu",
+    "indonesia": "itu berbeda",
+    "english": "it's different"
+  },
+  {
+    "japan": "ねまず",
+    "writing": "nemazu",
+    "indonesia": "pertama",
+    "english": "first of all"
+  },
+  {
+    "japan": "にかげつ",
+    "writing": "nikagetsu",
+    "indonesia": "sampai akhir",
+    "english": "to the end"
+  },
+  {
+    "japan": "にほんご",
+    "writing": "nihongo",
+    "indonesia": "jepang",
+    "english": "japanese"
+  },
+  {
+    "japan": "ぎんこう",
+    "writing": "ginkou",
+    "indonesia": "ginkgo",
+    "english": "ginkgo"
+  },
+  {
+    "japan": "あした",
+    "writing": "ashita",
+    "indonesia": "besok",
+    "english": "tomorrow"
+  },
+  {
+    "japan": "なんがつ",
+    "writing": "nangatsu",
+    "indonesia": "apa",
+    "english": "what"
+  },
+  {
+    "japan": "らいげつ",
+    "writing": "raigetsu",
+    "indonesia": "linguistik",
+    "english": "linguistic"
+  },
+  {
+    "japan": "kongetstu",
+    "writing": "kongetstu",
+    "indonesia": "kongestu",
+    "english": "kongestu"
+  },
+  {
+    "japan": "こんげつ",
+    "writing": "kongetsu",
+    "indonesia": "kongetsu",
+    "english": "kongetsu"
+  },
+  {
+    "japan": "えきから",
+    "writing": "ekikara",
+    "indonesia": "dari akhir",
+    "english": "from the end"
+  },
+  {
+    "japan": "きます",
+    "writing": "kimasu",
+    "indonesia": "saya akan datang",
+    "english": "i'll come"
+  },
+  {
+    "japan": "なんようび",
+    "writing": "nanyoubi",
+    "indonesia": "apa",
+    "english": "what"
+  },
+  {
+    "japan": "もくようび",
+    "writing": "mokuyoubi",
+    "indonesia": "saya tidak akan",
+    "english": "i'm not going to"
+  },
+  {
+    "japan": "きんようび",
+    "writing": "kinyoubi",
+    "indonesia": "kinyobi",
+    "english": "kinyobi"
+  },
+  {
+    "japan": "にちようび",
+    "writing": "nichiyoubi",
+    "indonesia": "minggu",
+    "english": "sunday"
+  },
+  {
+    "japan": "すいようび",
+    "writing": "suiyoubi",
+    "indonesia": "aku akan",
+    "english": "i'm going to"
+  },
+  {
+    "japan": "どようび",
+    "writing": "doyoubi",
+    "indonesia": "bagaimana ini",
+    "english": "how's it"
+  },
+  {
+    "japan": "かようび",
+    "writing": "kayoubi",
+    "indonesia": "segera",
+    "english": "immediate"
+  },
+  {
+    "japan": "げつようび",
+    "writing": "getsuyoubi",
+    "indonesia": "kompor",
+    "english": "a stove"
+  },
+  {
+    "japan": "いつ",
+    "writing": "itsu",
+    "indonesia": "kapan",
+    "english": "when"
+  },
+  {
+    "japan": "こうぎ",
+    "writing": "kougi",
+    "indonesia": "kogi",
+    "english": "kogi"
+  },
+  {
+    "japan": "こんばん",
+    "writing": "konban",
+    "indonesia": "selamat malam",
+    "english": "good evening"
+  },
+  {
+    "japan": "そうですか",
+    "writing": "soudesuka",
+    "indonesia": "begitulah demikian",
+    "english": "is that so"
+  },
+  {
+    "japan": "けんがく",
+    "writing": "kengaku",
+    "indonesia": "kengaku",
+    "english": "kengaku"
+  },
+  {
+    "japan": "いきます",
+    "writing": "ikimasu",
+    "indonesia": "aku akan pergi",
+    "english": "i'll go"
+  },
+  {
+    "japan": "かえります",
+    "writing": "kaerimasu",
+    "indonesia": "saya akan kembali",
+    "english": "i'll go back"
+  },
+  {
+    "japan": "うちまで",
+    "writing": "uchimade",
+    "indonesia": "ke rumahku",
+    "english": "to my house"
+  },
+  {
+    "japan": "まいこち",
+    "writing": "maikochi",
+    "indonesia": "maikochi",
+    "english": "maikochi"
+  },
+  {
+    "japan": "まいにち",
+    "writing": "mainichi",
+    "indonesia": "setiap hari",
+    "english": "every day"
+  },
+  {
+    "japan": "まいばん",
+    "writing": "maiban",
+    "indonesia": "maiban",
+    "english": "maiban"
+  },
+  {
+    "japan": "まいあさ",
+    "writing": "maiasa",
+    "indonesia": "maisa",
+    "english": "maisa"
+  },
+  {
+    "japan": "えき",
+    "writing": "eki",
+    "indonesia": "pada",
+    "english": "at"
+  },
+  {
+    "japan": "けさ",
+    "writing": "kesa",
+    "indonesia": "pagi ini",
+    "english": "this morning"
+  },
+  {
+    "japan": "ついたち",
+    "writing": "tsuitachi",
+    "indonesia": "saya tidak",
+    "english": "i'm not"
+  },
+  {
+    "japan": "とおか",
+    "writing": "tooka",
+    "indonesia": "dan kamu",
+    "english": "and you"
+  },
+  {
+    "japan": "はつか",
+    "writing": "hatsuka",
+    "indonesia": "apakah itu?",
+    "english": "is it?"
+  },
+  {
+    "japan": "むいか",
+    "writing": "muika",
+    "indonesia": "apakah itu",
+    "english": "is it"
+  },
+  {
+    "japan": "ようか",
+    "writing": "youka",
+    "indonesia": "begitu?",
+    "english": "is that so?"
+  },
+  {
+    "japan": "なんにち",
+    "writing": "nannichi",
+    "indonesia": "ada apa",
+    "english": "what's up"
+  },
+  {
+    "japan": "ほんや",
+    "writing": "honya",
+    "indonesia": "sejujurnya",
+    "english": "honestly"
+  },
+  {
+    "japan": "みず",
+    "writing": "mizu",
+    "indonesia": "air",
+    "english": "water"
+  },
+  {
+    "japan": "りんご",
+    "writing": "ringo",
+    "indonesia": "apel",
+    "english": "apple"
+  },
+  {
+    "japan": "あいます",
+    "writing": "aimasu",
+    "indonesia": "aku akan bertemu denganmu",
+    "english": "i'll meet you"
+  },
+  {
+    "japan": "にく",
+    "writing": "niku",
+    "indonesia": "niku",
+    "english": "niku"
+  },
+  {
+    "japan": "あるいて",
+    "writing": "aruite",
+    "indonesia": "ada",
+    "english": "there's"
+  },
+  {
+    "japan": "さかな",
+    "writing": "sakana",
+    "indonesia": "ikan",
+    "english": "fish"
+  },
+  {
+    "japan": "ふね",
+    "writing": "fune",
+    "indonesia": "seru",
+    "english": "fun"
+  },
+  {
+    "japan": "ちかてつ",
+    "writing": "chikatetsu",
+    "indonesia": "chikatsu",
+    "english": "chikatetsu"
+  },
+  {
+    "japan": "しんかんせん",
+    "writing": "shinkansen",
+    "indonesia": "itu sangat buruk",
+    "english": "it's so bad"
+  },
+  {
+    "japan": "たべます",
+    "writing": "tabemasu",
+    "indonesia": "saya akan memakannya",
+    "english": "i'll eat it"
+  },
+  {
+    "japan": "ばんごはん",
+    "writing": "bangohan",
+    "indonesia": "bang nasi",
+    "english": "bang rice"
+  },
+  {
+    "japan": "あさごはん",
+    "writing": "asagohan",
+    "indonesia": "asagohan",
+    "english": "asagohan"
+  },
+  {
+    "japan": "ひるごはん",
+    "writing": "hirugohan",
+    "indonesia": "nasi goreng",
+    "english": "fried rice"
+  },
+  {
+    "japan": "します",
+    "writing": "shimasu",
+    "indonesia": "saya akan melakukannya",
+    "english": "i'll do it"
+  },
+  {
+    "japan": "みます",
+    "writing": "mimasu",
+    "indonesia": "saya akan melihat",
+    "english": "i'll see"
+  },
+  {
+    "japan": "よみ",
+    "writing": "yomi",
+    "indonesia": "membaca",
+    "english": "reading"
+  },
+  {
+    "japan": "よみます",
+    "writing": "yomimasu",
+    "indonesia": "saya akan membacanya",
+    "english": "i'll read it"
+  },
+  {
+    "japan": "かいます",
+    "writing": "kaimasu",
+    "indonesia": "saya akan menyalakan",
+    "english": "i'll light"
+  },
+  {
+    "japan": "ききます",
+    "writing": "kikimasu",
+    "indonesia": "saya akan mendengarkan",
+    "english": "i'll listen"
+  },
+  {
+    "japan": "とります",
+    "writing": "torimasu",
+    "indonesia": "saya akan menerimanya",
+    "english": "i'll take it"
+  },
+  {
+    "japan": "かきます",
+    "writing": "kakimasu",
+    "indonesia": "saya akan menggosoknya",
+    "english": "i'll rub it"
+  },
+  {
+    "japan": "たばこをすいます",
+    "writing": "tabakowosuimasu",
+    "indonesia": "aku akan merokok",
+    "english": "i'm gonna smoke"
+  },
+  {
+    "japan": "のみます",
+    "writing": "nomimasu",
+    "indonesia": "saya akan menerimanya",
+    "english": "i'll take it"
+  },
+  {
+    "japan": "おさけ",
+    "writing": "osake",
+    "indonesia": "manis",
+    "english": "sweet"
+  },
+  {
+    "japan": "ごはん",
+    "writing": "gohan",
+    "indonesia": "beras",
+    "english": "rice"
+  },
+  {
+    "japan": "ひと",
+    "writing": "hito",
+    "indonesia": "rakyat",
+    "english": "people"
+  },
+  {
+    "japan": "こうびと",
+    "writing": "koubito",
+    "indonesia": "saya",
+    "english": "i'm"
+  },
+  {
+    "japan": "ひこうき",
+    "writing": "hikouki",
+    "indonesia": "seekor ular",
+    "english": "a snake"
+  },
+  {
+    "japan": "やさい",
+    "writing": "yasai",
+    "indonesia": "sayuran",
+    "english": "vegetable"
+  },
+  {
+    "japan": "ひとりで",
+    "writing": "hitoride",
+    "indonesia": "sendiri",
+    "english": "by yourself"
+  },
+  {
+    "japan": "くつ",
+    "writing": "kutsu",
+    "indonesia": "sepatu",
+    "english": "shoes"
+  },
+  {
+    "japan": "らいねん",
+    "writing": "rainen",
+    "indonesia": "berikutnya",
+    "english": "next"
+  },
+  {
+    "japan": "ことし",
+    "writing": "kotoshi",
+    "indonesia": "tahun ini",
+    "english": "this year"
+  },
+  {
+    "japan": "たまご",
+    "writing": "tamago",
+    "indonesia": "telur",
+    "english": "eggs"
+  },
+  {
+    "japan": "ともだち",
+    "writing": "tomodachi",
+    "indonesia": "teman",
+    "english": "friend"
+  },
+  {
+    "japan": "こども",
+    "writing": "kodomo",
+    "indonesia": "anak",
+    "english": "child"
+  },
+  {
+    "japan": "きれい",
+    "writing": "kirei",
+    "indonesia": "cantik",
+    "english": "beautiful"
+  },
+  {
+    "japan": "えいご",
+    "writing": "eigo",
+    "indonesia": "bahasa inggris",
+    "english": "english"
+  },
+  {
+    "japan": "いい",
+    "writing": "ii",
+    "indonesia": "bagus",
+    "english": "good"
+  },
+  {
+    "japan": "あたらしい",
+    "writing": "atarashii",
+    "indonesia": "baru",
+    "english": "new"
+  },
+  {
+    "japan": "ならいます",
+    "writing": "naraimasu",
+    "indonesia": "saya akan berada di sana",
+    "english": "i'll be there"
+  },
+  {
+    "japan": "まだ",
+    "writing": "mada",
+    "indonesia": "tetap",
+    "english": "still"
+  },
+  {
+    "japan": "おおきい",
+    "writing": "ookii",
+    "indonesia": "besar",
+    "english": "big"
+  },
+  {
+    "japan": "わるい",
+    "writing": "warui",
+    "indonesia": "buruk",
+    "english": "bad"
+  },
+  {
+    "japan": "つめたい",
+    "writing": "tsumetai",
+    "indonesia": "saya ingin memakainya",
+    "english": "i want to put it on"
+  },
+  {
+    "japan": "さむい",
+    "writing": "samui",
+    "indonesia": "dingin",
+    "english": "cold"
+  },
+  {
+    "japan": "はさみ",
+    "writing": "hasami",
+    "indonesia": "gunting",
+    "english": "scissors"
+  },
+  {
+    "japan": "ちいさい",
+    "writing": "chiisai",
+    "indonesia": "kecil",
+    "english": "small"
+  },
+  {
+    "japan": "かぞく",
+    "writing": "kazoku",
+    "indonesia": "keluarga",
+    "english": "family"
+  },
+  {
+    "japan": "ふるい",
+    "writing": "furui",
+    "indonesia": "saringan",
+    "english": "sieve"
+  },
+  {
+    "japan": "たかい",
+    "writing": "takai",
+    "indonesia": "tinggi",
+    "english": "high"
+  },
+  {
+    "japan": "あげます",
+    "writing": "agemasu",
+    "indonesia": "saya akan memberikannya",
+    "english": "i'll give it"
+  },
+  {
+    "japan": "かります",
+    "writing": "karimasu",
+    "indonesia": "saya akan menerimanya",
+    "english": "i'll take it"
+  },
+  {
+    "japan": "かします",
+    "writing": "kashimasu",
+    "indonesia": "saya akan melakukannya",
+    "english": "i'll do it"
+  },
+  {
+    "japan": "きります",
+    "writing": "kirimasu",
+    "indonesia": "itu hilang",
+    "english": "it's gone"
+  },
+  {
+    "japan": "かけます",
+    "writing": "kakemasu",
+    "indonesia": "saya akan memakainya",
+    "english": "i'll put it on"
+  },
+  {
+    "japan": "もらいます",
+    "writing": "moraimasu",
+    "indonesia": "saya akan mendapatkannya",
+    "english": "i'll get it"
+  },
+  {
+    "japan": "おしえます",
+    "writing": "oshiemasu",
+    "indonesia": "aku akan memberitahumu",
+    "english": "i'll tell you"
+  },
+  {
+    "japan": "わかります",
+    "writing": "wakarimasu",
+    "indonesia": "saya mengerti",
+    "english": "i understand"
+  },
+  {
+    "japan": "かんたん",
+    "writing": "kantan",
+    "indonesia": "mudah",
+    "english": "easy"
+  },
+  {
+    "japan": "これから",
+    "writing": "korekara",
+    "indonesia": "mulai sekarang",
+    "english": "from now"
+  },
+  {
+    "japan": "やすい",
+    "writing": "yasui",
+    "indonesia": "mudah",
+    "english": "easy"
+  },
+  {
+    "japan": "あつい",
+    "writing": "atsui",
+    "indonesia": "panas",
+    "english": "hot"
+  },
+  {
+    "japan": "しんせつ",
+    "writing": "shinsetsu",
+    "indonesia": "saya sangat senang",
+    "english": "i'm so happy"
+  },
+  {
+    "japan": "にぎやか",
+    "writing": "nigiyaka",
+    "indonesia": "hidup",
+    "english": "lively"
+  },
+  {
+    "japan": "ひくい",
+    "writing": "hikui",
+    "indonesia": "aku akan memukul",
+    "english": "i'm gonna hit"
+  },
+  {
+    "japan": "また　あした",
+    "writing": "mata　ashita",
+    "indonesia": "sampai besok",
+    "english": "see you tomorrow"
+  },
+  {
+    "japan": "また あした",
+    "writing": "mata ashita",
+    "indonesia": "sampai besok",
+    "english": "see you tomorrow"
+  },
+  {
+    "japan": "げんき",
+    "writing": "genki",
+    "indonesia": "bagus",
+    "english": "fine"
+  },
+  {
+    "japan": "それから",
+    "writing": "sorekara",
+    "indonesia": "setelah itu",
+    "english": "after that"
+  },
+  {
+    "japan": "まう",
+    "writing": "mau",
+    "indonesia": "saya",
+    "english": "i"
+  },
+  {
+    "japan": "むずかしい",
+    "writing": "muzukashii",
+    "indonesia": "itu sulit",
+    "english": "it's difficult"
+  },
+  {
+    "japan": "はし",
+    "writing": "hashi",
+    "indonesia": "menjembatani",
+    "english": "bridge"
+  },
+  {
+    "japan": "しずか",
+    "writing": "shizuka",
+    "indonesia": "shizuka",
+    "english": "shizuka"
+  },
+  {
+    "japan": "ゆめい",
+    "writing": "yumei",
+    "indonesia": "termenung",
+    "english": "dreamy"
+  },
+  {
+    "japan": "ゆうめい",
+    "writing": "yuumei",
+    "indonesia": "yumei",
+    "english": "yumei"
+  },
+  {
+    "japan": "たぁい",
+    "writing": "taぁi",
+    "indonesia": "saya minta maaf",
+    "english": "i'm sorry"
+  },
+  {
+    "japan": "います",
+    "writing": "imasu",
+    "indonesia": "saya di sini",
+    "english": "i'm here"
+  },
+  {
+    "japan": "あります",
+    "writing": "arimasu",
+    "indonesia": "ada",
+    "english": "there is"
+  },
+  {
+    "japan": "でんきですか",
+    "writing": "denkidesuka",
+    "indonesia": "apakah kamu listrik",
+    "english": "are you electric"
+  },
+  {
+    "japan": "どうですか",
+    "writing": "doudesuka",
+    "indonesia": "bagaimana menurutmu?",
+    "english": "what do you think?"
+  },
+  {
+    "japan": "あおい",
+    "writing": "aoi",
+    "indonesia": "aoi",
+    "english": "aoi"
+  },
+  {
+    "japan": "くだもの",
+    "writing": "kudamono",
+    "indonesia": "buah",
+    "english": "fruit"
+  },
+  {
+    "japan": "はな",
+    "writing": "hana",
+    "indonesia": "hana",
+    "english": "hana"
+  },
+  {
+    "japan": "さくら",
+    "writing": "sakura",
+    "indonesia": "bunga sakura",
+    "english": "cherry blossoms"
+  },
+  {
+    "japan": "とりにく",
+    "writing": "toriniku",
+    "indonesia": "saya akan mencoba mendapatkannya",
+    "english": "i'll try to get it"
+  },
+  {
+    "japan": "ぶたにく",
+    "writing": "butaniku",
+    "indonesia": "babi",
+    "english": "pig"
+  },
+  {
+    "japan": "よく",
+    "writing": "yoku",
+    "indonesia": "sering",
+    "english": "often"
+  },
+  {
+    "japan": "おいしい",
+    "writing": "oishii",
+    "indonesia": "lezat",
+    "english": "delicious"
+  },
+  {
+    "japan": "やま",
+    "writing": "yama",
+    "indonesia": "gunung",
+    "english": "mountain"
+  },
+  {
+    "japan": "ふじさん",
+    "writing": "fujisan",
+    "indonesia": "fuji-san",
+    "english": "fuji-san"
+  },
+  {
+    "japan": "だいたい",
+    "writing": "daitai",
+    "indonesia": "hampir",
+    "english": "almost"
+  },
+  {
+    "japan": "くろい",
+    "writing": "kuroi",
+    "indonesia": "kuroi",
+    "english": "kuroi"
+  },
+  {
+    "japan": "みかん",
+    "writing": "mikan",
+    "indonesia": "oranye mandarin",
+    "english": "mandarin orange"
+  },
+  {
+    "japan": "どうして",
+    "writing": "doushite",
+    "indonesia": "mengapa",
+    "english": "why"
+  },
+  {
+    "japan": "まち",
+    "writing": "machi",
+    "indonesia": "kota",
+    "english": "town"
+  },
+  {
+    "japan": "うた",
+    "writing": "uta",
+    "indonesia": "nyanyian",
+    "english": "singing"
+  },
+  {
+    "japan": "たべもの",
+    "writing": "tabemono",
+    "indonesia": "makanan",
+    "english": "food"
+  },
+  {
+    "japan": "たのしい",
+    "writing": "tanoshii",
+    "indonesia": "seru",
+    "english": "fun"
+  },
+  {
+    "japan": "あかい",
+    "writing": "akai",
+    "indonesia": "itu sangat lucu",
+    "english": "it's so cute"
+  },
+  {
+    "japan": "のみもの",
+    "writing": "nomimono",
+    "indonesia": "hal-hal",
+    "english": "things"
+  },
+  {
+    "japan": "おんがく",
+    "writing": "ongaku",
+    "indonesia": "ongaku",
+    "english": "ongaku"
+  },
+  {
+    "japan": "しろい",
+    "writing": "shiroi",
+    "indonesia": "jangan lakukan itu",
+    "english": "don't do it"
+  },
+  {
+    "japan": "とても",
+    "writing": "totemo",
+    "indonesia": "sangat",
+    "english": "very"
+  },
+  {
+    "japan": "すこし",
+    "writing": "sukoshi",
+    "indonesia": "sedikit",
+    "english": "a little"
+  },
+  {
+    "japan": "すき",
+    "writing": "suki",
+    "indonesia": "menyukai",
+    "english": "like"
+  },
+  {
+    "japan": "ところ",
+    "writing": "tokoro",
+    "indonesia": "di mana",
+    "english": "where"
+  },
+  {
+    "japan": "もちろん",
+    "writing": "mochiron",
+    "indonesia": "tentu saja",
+    "english": "of course"
+  },
+  {
+    "japan": "あまり",
+    "writing": "amari",
+    "indonesia": "tidak banyak",
+    "english": "not much"
+  },
+  {
+    "japan": "へた",
+    "writing": "heta",
+    "indonesia": "tampuk",
+    "english": "calyx"
+  },
+  {
+    "japan": "きらい",
+    "writing": "kirai",
+    "indonesia": "aku benci itu",
+    "english": "i hate it"
+  },
+  {
+    "japan": "おかね",
+    "writing": "okane",
+    "indonesia": "apa",
+    "english": "what"
+  },
+  {
+    "japan": "しけん",
+    "writing": "shiken",
+    "indonesia": "shiken",
+    "english": "shiken"
+  },
+  {
+    "japan": "じかん",
+    "writing": "jikan",
+    "indonesia": "waktu",
+    "english": "time"
+  },
+  {
+    "japan": "どんな",
+    "writing": "donna",
+    "indonesia": "jenis apa",
+    "english": "what kind"
+  },
+  {
+    "japan": "どれ",
+    "writing": "dore",
+    "indonesia": "yang mana",
+    "english": "which one"
+  },
+  {
+    "japan": "こどもが います",
+    "writing": "kodomoga imasu",
+    "indonesia": "",
+    "english": ""
+  },
+  {
+    "japan": "こどもが",
+    "writing": "kodomoga",
+    "indonesia": "",
+    "english": ""
+  },
+  {
+    "japan": "にほんに います",
+    "writing": "nihonni imasu",
+    "indonesia": "saya di sini",
+    "english": "i'm here"
+  },
+  {
+    "japan": "ふうとう",
+    "writing": "fuutou",
+    "indonesia": "wow",
+    "english": "wow"
+  },
+  {
+    "japan": "おとこのこ",
+    "writing": "otokonoko",
+    "indonesia": "lelaki ku",
+    "english": "my man"
+  },
+  {
+    "japan": "おんなのこ",
+    "writing": "onnanoko",
+    "indonesia": "gadis",
+    "english": "girl"
+  },
+  {
+    "japan": "あいだ",
+    "writing": "aida",
+    "indonesia": "aida",
+    "english": "aida"
+  },
+  {
+    "japan": "うえ",
+    "writing": "ue",
+    "indonesia": "ke atas",
+    "english": "up"
+  },
+  {
+    "japan": "もの",
+    "writing": "mono",
+    "indonesia": "benda",
+    "english": "thing"
+  },
+  {
+    "japan": "にもつ",
+    "writing": "nimotsu",
+    "indonesia": "dia",
+    "english": "it's"
+  },
+  {
+    "japan": "した",
+    "writing": "shita",
+    "indonesia": "telah melakukan",
+    "english": "did"
+  },
+  {
+    "japan": "うしろ",
+    "writing": "ushiro",
+    "indonesia": "di belakang",
+    "english": "behind"
+  },
+  {
+    "japan": "いろいろ",
+    "writing": "iroiro",
+    "indonesia": "bermacam-macam",
+    "english": "various"
+  },
+  {
+    "japan": "なか",
+    "writing": "naka",
+    "indonesia": "di dalam",
+    "english": "inside"
+  },
+  {
+    "japan": "ちかい",
+    "writing": "chikai",
+    "indonesia": "itu sudah dekat",
+    "english": "it's close"
+  },
+  {
+    "japan": "ねつが",
+    "writing": "netsuga",
+    "indonesia": "dia",
+    "english": "it's"
+  },
+  {
+    "japan": "まえ",
+    "writing": "mae",
+    "indonesia": "depan",
+    "english": "front"
+  },
+  {
+    "japan": "ふたり",
+    "writing": "futari",
+    "indonesia": "dua",
+    "english": "two"
+  },
+  {
+    "japan": "みぎ",
+    "writing": "migi",
+    "indonesia": "kanan",
+    "english": "right"
+  },
+  {
+    "japan": "たいしかん",
+    "writing": "taishikan",
+    "indonesia": "itu masalah besar",
+    "english": "it's a big deal"
+  },
+  {
+    "japan": "あたま",
+    "writing": "atama",
+    "indonesia": "kepala",
+    "english": "head"
+  },
+  {
+    "japan": "ひだり",
+    "writing": "hidari",
+    "indonesia": "pluff",
+    "english": "pluff"
+  },
+  {
+    "japan": "おとこ",
+    "writing": "otoko",
+    "indonesia": "pria",
+    "english": "man"
+  },
+  {
+    "japan": "ごまい",
+    "writing": "gomai",
+    "indonesia": "bagus",
+    "english": "good"
+  },
+  {
+    "japan": "そと",
+    "writing": "soto",
+    "indonesia": "dan",
+    "english": "and"
+  },
+  {
+    "japan": "がぜを",
+    "writing": "gazewo",
+    "indonesia": "sakit hati",
+    "english": "grudge"
+  },
+  {
+    "japan": "ひきます",
+    "writing": "hikimasu",
+    "indonesia": "saya akan menariknya",
+    "english": "i'll pull it"
+  },
+  {
+    "japan": "かかります",
+    "writing": "kakarimasu",
+    "indonesia": "itu akan mengambil",
+    "english": "it'll take"
+  },
+  {
+    "japan": "くすり",
+    "writing": "kusuri",
+    "indonesia": "obat",
+    "english": "medicine"
+  },
+  {
+    "japan": "おなか",
+    "writing": "onaka",
+    "indonesia": "perut",
+    "english": "stomach"
+  },
+  {
+    "japan": "ちず",
+    "writing": "chizu",
+    "indonesia": "chizu",
+    "english": "chizu"
+  },
+  {
+    "japan": "あたまが",
+    "writing": "atamaga",
+    "indonesia": "kepalanya",
+    "english": "the head is"
+  },
+  {
+    "japan": "いたい",
+    "writing": "itai",
+    "indonesia": "saya ingin",
+    "english": "i want to"
+  },
+  {
+    "japan": "いちにち",
+    "writing": "ichinichi",
+    "indonesia": "satu hari",
+    "english": "one day"
+  },
+  {
+    "japan": "となり",
+    "writing": "tonari",
+    "indonesia": "berikutnya",
+    "english": "next"
+  },
+  {
+    "japan": "ひとり",
+    "writing": "hitori",
+    "indonesia": "sendiri",
+    "english": "alone"
+  },
+  {
+    "japan": "こうえん",
+    "writing": "kouen",
+    "indonesia": "taman",
+    "english": "park"
+  },
+  {
+    "japan": "おんな",
+    "writing": "onna",
+    "indonesia": "gadis",
+    "english": "girl"
+  },
+  {
+    "japan": "ひとが おおい",
+    "writing": "hitoga ooi",
+    "indonesia": "orang -orang itu besar",
+    "english": "people are big"
+  },
+  {
+    "japan": "かいものします",
+    "writing": "kaimonoshimasu",
+    "indonesia": "saya akan melakukan sesuatu",
+    "english": "i'll do something"
+  },
+  {
+    "japan": "さんぽします",
+    "writing": "sanposhimasu",
+    "indonesia": "saya akan berjalan",
+    "english": "i'll walk"
+  },
+  {
+    "japan": "あそびます",
+    "writing": "asobimasu",
+    "indonesia": "saya akan bermain",
+    "english": "i'll play"
+  },
+  {
+    "japan": "けんぶつします",
+    "writing": "kenbutsushimasu",
+    "indonesia": "aku akan memukul",
+    "english": "i'll smack"
+  },
+  {
+    "japan": "はやい",
+    "writing": "hayai",
+    "indonesia": "cepat",
+    "english": "quick"
+  },
+  {
+    "japan": "てんき",
+    "writing": "tenki",
+    "indonesia": "cuaca",
+    "english": "weather"
+  },
+  {
+    "japan": "いいてんきですね",
+    "writing": "iitenkidesune",
+    "indonesia": "itu sangat bagus",
+    "english": "it's so good"
+  },
+  {
+    "japan": "ちかく",
+    "writing": "chikaku",
+    "indonesia": "hampir",
+    "english": "nearly"
+  },
+  {
+    "japan": "あたたかい",
+    "writing": "atatakai",
+    "indonesia": "hangat",
+    "english": "warm"
+  },
+  {
+    "japan": "だけ",
+    "writing": "dake",
+    "indonesia": "hanya",
+    "english": "only"
+  },
+  {
+    "japan": "あめ",
+    "writing": "ame",
+    "indonesia": "permen",
+    "english": "candy"
+  },
+  {
+    "japan": "ほしい",
+    "writing": "hoshii",
+    "indonesia": "saya menginginkannya",
+    "english": "i want it"
+  },
+  {
+    "japan": "とおい",
+    "writing": "tooi",
+    "indonesia": "hai",
+    "english": "hey"
+  },
+  {
+    "japan": "ときどき",
+    "writing": "tokidoki",
+    "indonesia": "kadang-kadang",
+    "english": "sometimes"
+  },
+  {
+    "japan": "へやを でます",
+    "writing": "heyawo demasu",
+    "indonesia": "saya akan",
+    "english": "i'll be"
+  },
+  {
+    "japan": "おそい",
+    "writing": "osoi",
+    "indonesia": "terlambat",
+    "english": "late"
+  },
+  {
+    "japan": "あまい",
+    "writing": "amai",
+    "indonesia": "manis",
+    "english": "sweet"
+  },
+  {
+    "japan": "へやに　はいります",
+    "writing": "heyani　hairimasu",
+    "indonesia": "saya di tengah",
+    "english": "i'm in the middle of"
+  },
+  {
+    "japan": "へやに はいります",
+    "writing": "heyani hairimasu",
+    "indonesia": "saya datang ke heya",
+    "english": "i'm coming to heya"
+  },
+  {
+    "japan": "よびます",
+    "writing": "yobimasu",
+    "indonesia": "aku akan meneleponmu",
+    "english": "i'll call you"
+  },
+  {
+    "japan": "くもり",
+    "writing": "kumori",
+    "indonesia": "berawan",
+    "english": "cloudy"
+  },
+  {
+    "japan": "おくります",
+    "writing": "okurimasu",
+    "indonesia": "saya akan mengirimkannya",
+    "english": "i'll send it"
+  },
+  {
+    "japan": "かえます",
+    "writing": "kaemasu",
+    "indonesia": "saya akan kembali",
+    "english": "i'll go back"
+  },
+  {
+    "japan": "まちます",
+    "writing": "machimasu",
+    "indonesia": "saya akan berada di kota",
+    "english": "i'll be in town"
+  },
+  {
+    "japan": "わかい",
+    "writing": "wakai",
+    "indonesia": "aku tahu",
+    "english": "i know"
+  },
+  {
+    "japan": "おみやげ",
+    "writing": "omiyage",
+    "indonesia": "suvenir",
+    "english": "souvenir"
+  },
+  {
+    "japan": "いちばん",
+    "writing": "ichiban",
+    "indonesia": "nomor satu",
+    "english": "number one"
+  },
+  {
+    "japan": "からい",
+    "writing": "karai",
+    "indonesia": "saya",
+    "english": "i'm"
+  },
+  {
+    "japan": "ゆき",
+    "writing": "yuki",
+    "indonesia": "salju",
+    "english": "snow"
+  },
+  {
+    "japan": "いかげつ",
+    "writing": "ikagetsu",
+    "indonesia": "ikagetsu",
+    "english": "ikagetsu"
+  },
+  {
+    "japan": "いっしゅうかん",
+    "writing": "iっshiゅukan",
+    "indonesia": "isshukan",
+    "english": "isshukan"
+  },
+  {
+    "japan": "いちねん",
+    "writing": "ichinen",
+    "indonesia": "ichine",
+    "english": "ichine"
+  },
+  {
+    "japan": "つかれます",
+    "writing": "tsukaremasu",
+    "indonesia": "saya lelah",
+    "english": "i'm tired"
+  },
+  {
+    "japan": "ひとが すくない",
+    "writing": "hitoga sukunai",
+    "indonesia": "tidak banyak orang",
+    "english": "there's not a lot of people"
+  },
+  {
+    "japan": "すずしい",
+    "writing": "suzushii",
+    "indonesia": "itu sangat menyeramkan",
+    "english": "it's so slurp"
+  },
+  {
+    "japan": "いつも",
+    "writing": "itsumo",
+    "indonesia": "setiap kali",
+    "english": "everytime"
+  },
+  {
+    "japan": "ぜんぶ",
+    "writing": "zenbu",
+    "indonesia": "semuanya",
+    "english": "everything"
+  },
+  {
+    "japan": " なにか",
+    "writing": " nanika",
+    "indonesia": "sesuatu",
+    "english": "something"
+  },
+  {
+    "japan": "いそがしい",
+    "writing": "isogashii",
+    "indonesia": "itu sibuk",
+    "english": "it's busy"
+  },
+  {
+    "japan": "どこか",
+    "writing": "dokoka",
+    "indonesia": "di mana",
+    "english": "where"
+  },
+  {
+    "japan": "いそぎます",
+    "writing": "isogimasu",
+    "indonesia": "saya akan menerimanya",
+    "english": "i'll take it"
+  },
+  {
+    "japan": "みせ",
+    "writing": "mise",
+    "indonesia": "toko",
+    "english": "shop"
+  },
+  {
+    "japan": "ひま",
+    "writing": "hima",
+    "indonesia": "waktu luang",
+    "english": "free time"
+  },
+  {
+    "japan": "どちらも",
+    "writing": "dochiramo",
+    "indonesia": "keduanya",
+    "english": "both"
+  },
+  {
+    "japan": "せいひん",
+    "writing": "seihin",
+    "indonesia": "seihin",
+    "english": "seihin"
+  },
+  {
+    "japan": "はなします",
+    "writing": "hanashimasu",
+    "indonesia": "saya akan melakukannya",
+    "english": "i'll do it"
+  },
+  {
+    "japan": "たちます",
+    "writing": "tachimasu",
+    "indonesia": "itu datang",
+    "english": "it's coming"
+  },
+  {
+    "japan": "つぎ",
+    "writing": "tsugi",
+    "indonesia": "berikutnya",
+    "english": "next"
+  },
+  {
+    "japan": "いいます",
+    "writing": "iimasu",
+    "indonesia": "saya akan mengatakan",
+    "english": "i'll say"
+  },
+  {
+    "japan": "つかいかた",
+    "writing": "tsukaikata",
+    "indonesia": "cara menggunakannya",
+    "english": "how to use it"
+  },
+  {
+    "japan": "よみかた",
+    "writing": "yomikata",
+    "indonesia": "cara membaca",
+    "english": "how to read"
+  },
+  {
+    "japan": "かきかた",
+    "writing": "kakikata",
+    "indonesia": "bagaimana cara mendapatkannya",
+    "english": "how to get it"
+  },
+  {
+    "japan": "はやく",
+    "writing": "hayaku",
+    "indonesia": "cepat",
+    "english": "quick"
+  },
+  {
+    "japan": "きんえん",
+    "writing": "kinen",
+    "indonesia": "dilarang merokok",
+    "english": "no smoking"
+  },
+  {
+    "japan": "すわります",
+    "writing": "suwarimasu",
+    "indonesia": "saya akan duduk",
+    "english": "i'll sit"
+  },
+  {
+    "japan": "しお",
+    "writing": "shio",
+    "indonesia": "shio",
+    "english": "shio"
+  },
+  {
+    "japan": "さとう",
+    "writing": "satou",
+    "indonesia": "gula",
+    "english": "sugar"
+  },
+  {
+    "japan": "おぼえます",
+    "writing": "oboemasu",
+    "indonesia": "saya ingat",
+    "english": "i remember"
+  },
+  {
+    "japan": "どくしん",
+    "writing": "dokushin",
+    "indonesia": "dokushin",
+    "english": "dokushin"
+  },
+  {
+    "japan": "だいがくせい",
+    "writing": "daigakusei",
+    "indonesia": "saya tidak menjadi masalah",
+    "english": "i'm not a problem"
+  },
+  {
+    "japan": "がくせい",
+    "writing": "gakusei",
+    "indonesia": "saya tidak akan bosan",
+    "english": "i'm not going to get tired of"
+  },
+  {
+    "japan": "つかいます",
+    "writing": "tsukaimasu",
+    "indonesia": "saya akan menggunakannya",
+    "english": "i'll use it"
+  },
+  {
+    "japan": "けします",
+    "writing": "keshimasu",
+    "indonesia": "saya akan melakukannya",
+    "english": "i'll do it"
+  },
+  {
+    "japan": "てつだいます",
+    "writing": "tetsudaimasu",
+    "indonesia": "saya",
+    "english": "i'm"
+  },
+  {
+    "japan": "つくります",
+    "writing": "tsukurimasu",
+    "indonesia": "saya akan membuatnya",
+    "english": "i'll make it"
+  },
+  {
+    "japan": "あけます",
+    "writing": "akemasu",
+    "indonesia": "saya akan membuka",
+    "english": "i'll open"
+  },
+  {
+    "japan": "さわります",
+    "writing": "sawarimasu",
+    "indonesia": "saya akan menyentuhnya",
+    "english": "i'll touch it"
+  },
+  {
+    "japan": "みせます",
+    "writing": "misemasu",
+    "indonesia": "saya akan menunjukkannya",
+    "english": "i'll show it"
+  },
+  {
+    "japan": "しります",
+    "writing": "shirimasu",
+    "indonesia": "aku tahu",
+    "english": "i know"
+  },
+  {
+    "japan": "うります",
+    "writing": "urimasu",
+    "indonesia": "saya senang",
+    "english": "i'm happy"
+  },
+  {
+    "japan": "しめます",
+    "writing": "shimemasu",
+    "indonesia": "saya akan mengencangkannya",
+    "english": "i'll tighten it"
+  },
+  {
+    "japan": "つけます",
+    "writing": "tsukemasu",
+    "indonesia": "saya akan memakainya",
+    "english": "i'll put it on"
+  },
+  {
+    "japan": "のります",
+    "writing": "norimasu",
+    "indonesia": "saya akan",
+    "english": "i'll be"
+  },
+  {
+    "japan": "なまえ",
+    "writing": "namae",
+    "indonesia": "nama",
+    "english": "name"
+  },
+  {
+    "japan": "でんわばんご",
+    "writing": "denwabango",
+    "indonesia": "waktu terbaik",
+    "english": "best time"
+  },
+  {
+    "japan": "かさ",
+    "writing": "kasa",
+    "indonesia": "payung",
+    "english": "umbrella"
+  },
+  {
+    "japan": "ぎんこういん",
+    "writing": "ginkouin",
+    "indonesia": "ginkoin",
+    "english": "ginkoin"
+  },
+  {
+    "japan": "しごと",
+    "writing": "shigoto",
+    "indonesia": "bekerja",
+    "english": "work"
+  },
+  {
+    "japan": "すぐ",
+    "writing": "sugu",
+    "indonesia": "langsung",
+    "english": "immediately"
+  },
+  {
+    "japan": "もう いちど",
+    "writing": "mou ichido",
+    "indonesia": "sekali lagi",
+    "english": "once more"
+  },
+  {
+    "japan": "すみます",
+    "writing": "sumimasu",
+    "indonesia": "saya minta maaf",
+    "english": "i'm sorry"
+  },
+  {
+    "japan": "おります",
+    "writing": "orimasu",
+    "indonesia": "saya di sini",
+    "english": "i'm here"
+  },
+  {
+    "japan": "あめが ふります",
+    "writing": "amega furimasu",
+    "indonesia": "permen dituangkan",
+    "english": "candy is poured"
+  },
+  {
+    "japan": "だいがく",
+    "writing": "daigaku",
+    "indonesia": "universitas",
+    "english": "university"
+  },
+  {
+    "japan": "なんでも いい",
+    "writing": "nandemo ii",
+    "indonesia": "apapun baik -baik saja",
+    "english": "anything is fine"
+  },
+  {
+    "japan": "からだ",
+    "writing": "karada",
+    "indonesia": "itu tubuhnya",
+    "english": "it's the body"
+  },
+  {
+    "japan": "おもい",
+    "writing": "omoi",
+    "indonesia": "pikiran",
+    "english": "thought"
+  },
+  {
+    "japan": "あぶない",
+    "writing": "abunai",
+    "indonesia": "berbahaya",
+    "english": "dangerous"
+  },
+  {
+    "japan": "およぎます",
+    "writing": "oyogimasu",
+    "indonesia": "aku akan pergi",
+    "english": "i'll go"
+  },
+  {
+    "japan": "できます",
+    "writing": "dekimasu",
+    "indonesia": "bisa",
+    "english": "can"
+  },
+  {
+    "japan": "おと",
+    "writing": "oto",
+    "indonesia": "suara",
+    "english": "sound"
+  },
+  {
+    "japan": "のりかえ",
+    "writing": "norikae",
+    "indonesia": "relokasi",
+    "english": "relocation"
+  },
+  {
+    "japan": "くらい",
+    "writing": "kurai",
+    "indonesia": "tentang",
+    "english": "about"
+  },
+  {
+    "japan": "は",
+    "writing": "ha",
+    "indonesia": "gigi",
+    "english": "teeth"
+  },
+  {
+    "japan": "すごい",
+    "writing": "sugoi",
+    "indonesia": "luar biasa",
+    "english": "amazing"
+  },
+  {
+    "japan": "なくします",
+    "writing": "nakushimasu",
+    "indonesia": "saya akan kehilangan itu",
+    "english": "i'll lose it"
+  },
+  {
+    "japan": "あし",
+    "writing": "ashi",
+    "indonesia": "kaki",
+    "english": "legs"
+  },
+  {
+    "japan": "しんぱいします",
+    "writing": "shinpaishimasu",
+    "indonesia": "saya sangat senang",
+    "english": "i'm so happy"
+  },
+  {
+    "japan": "ひろい",
+    "writing": "hiroi",
+    "indonesia": "luar biasa",
+    "english": "amazing"
+  },
+  {
+    "japan": "わすれます",
+    "writing": "wasuremasu",
+    "indonesia": "saya akan melewatinya",
+    "english": "i'll pass it"
+  },
+  {
+    "japan": "あびます",
+    "writing": "abimasu",
+    "indonesia": "saya akan",
+    "english": "i'll be"
+  },
+  {
+    "japan": "め",
+    "writing": "me",
+    "indonesia": "mata",
+    "english": "eye"
+  },
+  {
+    "japan": "いれます",
+    "writing": "iremasu",
+    "indonesia": "saya akan datang",
+    "english": "i'll come"
+  },
+  {
+    "japan": "はらいます",
+    "writing": "haraimasu",
+    "indonesia": "saya akan",
+    "english": "i'll be"
+  },
+  {
+    "japan": "ぶぎます",
+    "writing": "bugimasu",
+    "indonesia": "saya akan meledakkannya",
+    "english": "i'll blow it"
+  },
+  {
+    "japan": "あらいます",
+    "writing": "araimasu",
+    "indonesia": "itu ada di sana",
+    "english": "it's there"
+  },
+  {
+    "japan": "だします",
+    "writing": "dashimasu",
+    "indonesia": "saya akan memberikannya",
+    "english": "i'll give it"
+  },
+  {
+    "japan": "かえします",
+    "writing": "kaeshimasu",
+    "indonesia": "saya akan kembali",
+    "english": "i'll go back"
+  },
+  {
+    "japan": "うたいます",
+    "writing": "utaimasu",
+    "indonesia": "saya akan bernyanyi",
+    "english": "i'll sing"
+  },
+  {
+    "japan": "かお",
+    "writing": "kao",
+    "indonesia": "menghadapi",
+    "english": "face"
+  },
+  {
+    "japan": "はじめます",
+    "writing": "hajimemasu",
+    "indonesia": "saya mulai",
+    "english": "i'm starting"
+  },
+  {
+    "japan": "くち",
+    "writing": "kuchi",
+    "indonesia": "mulut",
+    "english": "mouth"
+  },
+  {
+    "japan": "ばんご",
+    "writing": "bango",
+    "indonesia": "banga",
+    "english": "banga"
+  },
+  {
+    "japan": "ですから",
+    "writing": "desukara",
+    "indonesia": "jadi",
+    "english": "so"
+  },
+  {
+    "japan": "ながい",
+    "writing": "nagai",
+    "indonesia": "panjang",
+    "english": "long"
+  },
+  {
+    "japan": "みじかい",
+    "writing": "mijikai",
+    "indonesia": "pendek",
+    "english": "short"
+  },
+  {
+    "japan": "たいせつ",
+    "writing": "taisetsu",
+    "indonesia": "penting",
+    "english": "important"
+  },
+  {
+    "japan": "かみのけ",
+    "writing": "kaminoke",
+    "indonesia": "kaminoke",
+    "english": "kaminoke"
+  },
+  {
+    "japan": "かるい",
+    "writing": "karui",
+    "indonesia": "lampu",
+    "english": "light"
+  },
+  {
+    "japan": "ざんねん",
+    "writing": "zannen",
+    "indonesia": "kekecewaan",
+    "english": "disappointment"
+  },
+  {
+    "japan": "せまい",
+    "writing": "semai",
+    "indonesia": "sudah terlambat",
+    "english": "it's too late"
+  },
+  {
+    "japan": "て",
+    "writing": "te",
+    "indonesia": "tangan",
+    "english": "hand"
+  },
+  {
+    "japan": "みみ",
+    "writing": "mimi",
+    "indonesia": "telinga",
+    "english": "ear"
+  },
+  {
+    "japan": "あかるい",
+    "writing": "akarui",
+    "indonesia": "itu sangat lucu",
+    "english": "it's so cute"
+  },
+  {
+    "japan": "せが　たかい",
+    "writing": "sega　takai",
+    "indonesia": "itu sangat mahal",
+    "english": "it's so expensive"
+  },
+  {
+    "japan": "せが たかい",
+    "writing": "sega takai",
+    "indonesia": "itu sangat mahal",
+    "english": "it's so expensive"
+  },
+  {
+    "japan": "ぼく",
+    "writing": "boku",
+    "indonesia": "saya",
+    "english": "i"
+  },
+  {
+    "japan": "だんだん",
+    "writing": "dandan",
+    "indonesia": "perlahan-lahan",
+    "english": "gradually"
+  },
+  {
+    "japan": "うごきます",
+    "writing": "ugokimasu",
+    "indonesia": "saya akan pindah",
+    "english": "i'll move"
+  },
+  {
+    "japan": "やくにたちます",
+    "writing": "yakunitachimasu",
+    "indonesia": "itu akan segera datang",
+    "english": "it'll soon come"
+  },
+  {
+    "japan": "おもいます",
+    "writing": "omoimasu",
+    "indonesia": "saya",
+    "english": "i'm"
+  },
+  {
+    "japan": "ほんとうに",
+    "writing": "hontouni",
+    "indonesia": "sangat",
+    "english": "very"
+  },
+  {
+    "japan": "え",
+    "writing": "e",
+    "indonesia": "gambar",
+    "english": "picture"
+  },
+  {
+    "japan": "めがね",
+    "writing": "megane",
+    "indonesia": "kacamata",
+    "english": "glasses"
+  },
+  {
+    "japan": "きみ",
+    "writing": "kimi",
+    "indonesia": "anda",
+    "english": "you"
+  },
+  {
+    "japan": "こうつう",
+    "writing": "koutsuu",
+    "indonesia": "kotsu",
+    "english": "kotsu"
+  },
+  {
+    "japan": "がいこく",
+    "writing": "gaikoku",
+    "indonesia": "negara asing",
+    "english": "foreign country"
+  },
+  {
+    "japan": "めがねを かけます",
+    "writing": "meganewo kakemasu",
+    "indonesia": "saya akan memakai kacamata",
+    "english": "i'll wear glasses"
+  },
+  {
+    "japan": "はきます",
+    "writing": "hakimasu",
+    "indonesia": "akan memakai",
+    "english": "going to wear"
+  },
+  {
+    "japan": "そうじします",
+    "writing": "soujishimasu",
+    "indonesia": "saya akan melakukannya",
+    "english": "i'll do it"
+  },
+  {
+    "japan": "まわします",
+    "writing": "mawashimasu",
+    "indonesia": "saya akan mengubahnya",
+    "english": "i'll turn it"
+  },
+  {
+    "japan": "せんたくします",
+    "writing": "sentakushimasu",
+    "indonesia": "saya akan melakukannya",
+    "english": "i'll do it"
+  },
+  {
+    "japan": "おします",
+    "writing": "oshimasu",
+    "indonesia": "saya akan melakukannya",
+    "english": "i'll do it"
+  },
+  {
+    "japan": "とまります",
+    "writing": "tomarimasu",
+    "indonesia": "itu berhenti",
+    "english": "it's stopped"
+  },
+  {
+    "japan": "なります",
+    "writing": "narimasu",
+    "indonesia": "itu akan menjadi",
+    "english": "it will become"
+  },
+  {
+    "japan": "わたります",
+    "writing": "watarimasu",
+    "indonesia": "saya akan lulus",
+    "english": "i'll pass"
+  },
+  {
+    "japan": "たぶん",
+    "writing": "tabun",
+    "indonesia": "mungkin",
+    "english": "perhaps"
+  },
+  {
+    "japan": "ふく",
+    "writing": "fuku",
+    "indonesia": "menghapus",
+    "english": "wipe"
+  },
+  {
+    "japan": "いけん",
+    "writing": "iken",
+    "indonesia": "tidak bisa melakukannya",
+    "english": "can't do it"
+  },
+  {
+    "japan": "でかけます",
+    "writing": "dekakemasu",
+    "indonesia": "aku akan keluar",
+    "english": "i'll go out"
+  },
+  {
+    "japan": "やくそく",
+    "writing": "yakusoku",
+    "indonesia": "brengsek",
+    "english": "damn it"
+  },
+  {
+    "japan": "しつもん",
+    "writing": "shitsumon",
+    "indonesia": "pertanyaan",
+    "english": "question"
+  },
+  {
+    "japan": "べんり",
+    "writing": "benri",
+    "indonesia": "nyaman",
+    "english": "convenient"
+  },
+  {
+    "japan": "かいぎ",
+    "writing": "kaigi",
+    "indonesia": "pertemuan",
+    "english": "meeting"
+  },
+  {
+    "japan": "おなじ",
+    "writing": "onaji",
+    "indonesia": "sama",
+    "english": "same"
+  },
+  {
+    "japan": "いちども",
+    "writing": "ichidomo",
+    "indonesia": "sekali",
+    "english": "once"
+  },
+  {
+    "japan": "がんばります",
+    "writing": "ganbarimasu",
+    "indonesia": "saya akan melakukan yang terbaik",
+    "english": "i'll do my best"
+  },
+  {
+    "japan": "ごめんください",
+    "writing": "gomenkudasai",
+    "indonesia": "maaf",
+    "english": "sorry"
+  },
+  {
+    "japan": "ぶひん",
+    "writing": "buhin",
+    "indonesia": "bang",
+    "english": "bang"
+  },
+  {
+    "japan": "こまります",
+    "writing": "komarimasu",
+    "indonesia": "saya dalam masalah",
+    "english": "i'm in trouble"
+  },
+  {
+    "japan": "ふべん",
+    "writing": "fuben",
+    "indonesia": "buben",
+    "english": "buben"
+  },
+  {
+    "japan": "ぼうし",
+    "writing": "boushi",
+    "indonesia": "aku akan",
+    "english": "i'm gonna"
+  },
+  {
+    "japan": "けれども",
+    "writing": "keredomo",
+    "indonesia": "tetapi",
+    "english": "but"
+  },
+  {
+    "japan": "さいきん",
+    "writing": "saikin",
+    "indonesia": "akhir-akhir ini",
+    "english": "lately"
+  },
+  {
+    "japan": "ぶどう",
+    "writing": "budou",
+    "indonesia": "anggur",
+    "english": "grapes"
+  },
+  {
+    "japan": "いみ",
+    "writing": "imi",
+    "indonesia": "arti",
+    "english": "meaning"
+  },
+  {
+    "japan": "たまねぎ",
+    "writing": "tamanegi",
+    "indonesia": "bawang bombai",
+    "english": "onion"
+  },
+  {
+    "japan": "にんにく",
+    "writing": "ninniku",
+    "indonesia": "bawang putih",
+    "english": "garlic"
+  },
+  {
+    "japan": "まがります",
+    "writing": "magarimasu",
+    "indonesia": "itu akan terjadi",
+    "english": "it's gonna be"
+  },
+  {
+    "japan": "ながねぎ",
+    "writing": "naganegi",
+    "indonesia": "panjang",
+    "english": "long"
+  },
+  {
+    "japan": "せかい",
+    "writing": "sekai",
+    "indonesia": "dunia",
+    "english": "world"
+  },
+  {
+    "japan": "いせかい",
+    "writing": "isekai",
+    "indonesia": "saya sangat senang",
+    "english": "i'm so happy"
+  },
+  {
+    "japan": "うれし",
+    "writing": "ureshi",
+    "indonesia": "saya sangat senang",
+    "english": "i'm so happy"
+  },
+  {
+    "japan": "みち",
+    "writing": "michi",
+    "indonesia": "jalan",
+    "english": "road"
+  },
+  {
+    "japan": "いつでも",
+    "writing": "itsudemo",
+    "indonesia": "kapan pun",
+    "english": "anytime"
+  },
+  {
+    "japan": "めいし",
+    "writing": "meishi",
+    "indonesia": "kartu nama",
+    "english": "name card"
+  },
+  {
+    "japan": "かい",
+    "writing": "kai",
+    "indonesia": "kerang",
+    "english": "shellfish"
+  },
+  {
+    "japan": "かき",
+    "writing": "kaki",
+    "indonesia": "kesemak",
+    "english": "persimmon"
+  },
+  {
+    "japan": "しんご",
+    "writing": "shingo",
+    "indonesia": "terung",
+    "english": "eggplant"
+  },
+  {
+    "japan": "だいこん",
+    "writing": "daikon",
+    "indonesia": "itu sedikit",
+    "english": "it's a little"
+  },
+  {
+    "japan": "おかし",
+    "writing": "okashi",
+    "indonesia": "lucu",
+    "english": "funny"
+  },
+  {
+    "japan": "つづけます",
+    "writing": "tsuzukemasu",
+    "indonesia": "saya akan melanjutkan",
+    "english": "i'll continue"
+  },
+  {
+    "japan": "かたづけます",
+    "writing": "katazukemasu",
+    "indonesia": "saya akan memasukkannya",
+    "english": "i'll put it in"
+  },
+  {
+    "japan": "しらべます",
+    "writing": "shirabemasu",
+    "indonesia": "saya akan mencarinya",
+    "english": "i'll look it up"
+  },
+  {
+    "japan": "おもいだします",
+    "writing": "omoidashimasu",
+    "indonesia": "saya akan datang",
+    "english": "i'll come"
+  },
+  {
+    "japan": "ねむい",
+    "writing": "nemui",
+    "indonesia": "tidur",
+    "english": "sleep"
+  },
+  {
+    "japan": "せつめいします",
+    "writing": "setsumeishimasu",
+    "indonesia": "saya sangat senang",
+    "english": "i'm so pleased"
+  },
+  {
+    "japan": "さびしい",
+    "writing": "sabishii",
+    "indonesia": "kesepian",
+    "english": "lonely"
+  },
+  {
+    "japan": "どうぐ",
+    "writing": "dougu",
+    "indonesia": "bagaimana",
+    "english": "how"
+  },
+  {
+    "japan": "まちがい",
+    "writing": "machigai",
+    "indonesia": "salah",
+    "english": "wrong"
+  },
+  {
+    "japan": "はくさい",
+    "writing": "hakusai",
+    "indonesia": "bodoh",
+    "english": "stupid"
+  },
+  {
+    "japan": "かなし",
+    "writing": "kanashi",
+    "indonesia": "saya tidak",
+    "english": "i'm not"
+  },
+  {
+    "japan": "すいか",
+    "writing": "suika",
+    "indonesia": "apakah semangka?",
+    "english": "is it watermelon?"
+  },
+  {
+    "japan": "いちご",
+    "writing": "ichigo",
+    "indonesia": "stroberi",
+    "english": "strawberry"
+  },
+  {
+    "japan": "このあいだ",
+    "writing": "konoaida",
+    "indonesia": "ini hari yang lalu",
+    "english": "it's the other day"
+  },
+  {
+    "japan": "もやし",
+    "writing": "moyashi",
+    "indonesia": "tauge",
+    "english": "bean sprouts"
+  },
+  {
+    "japan": "まぐろ",
+    "writing": "maguro",
+    "indonesia": "tuna",
+    "english": "tuna"
+  },
+  {
+    "japan": "こまかい おかね",
+    "writing": "komakai okane",
+    "indonesia": "sedikit",
+    "english": "a little"
+  },
+  {
+    "japan": "おつり",
+    "writing": "otsuri",
+    "indonesia": "perubahan",
+    "english": "changes"
+  },
+  {
+    "japan": "にんじん",
+    "writing": "ninjin",
+    "indonesia": "wortel",
+    "english": "carrots"
+  },
+  {
+    "japan": "あう",
+    "writing": "au",
+    "indonesia": "cocok",
+    "english": "match"
+  },
+  {
+    "japan": "あく",
+    "writing": "aku",
+    "indonesia": "kejahatan",
+    "english": "evil"
+  },
+  {
+    "japan": "あける",
+    "writing": "akeru",
+    "indonesia": "membuka",
+    "english": "open"
+  },
+  {
+    "japan": "あげる",
+    "writing": "ageru",
+    "indonesia": "memberi",
+    "english": "give"
+  },
+  {
+    "japan": "あそぶ",
+    "writing": "asobu",
+    "indonesia": "bermain",
+    "english": "play"
+  },
+  {
+    "japan": "あびる",
+    "writing": "abiru",
+    "indonesia": "abiru",
+    "english": "abiru"
+  },
+  {
+    "japan": "あらう",
+    "writing": "arau",
+    "indonesia": "jadi begitu",
+    "english": "i see"
+  },
+  {
+    "japan": "ある",
+    "writing": "aru",
+    "indonesia": "menjadi",
+    "english": "be"
+  },
+  {
+    "japan": "あるく",
+    "writing": "aruku",
+    "indonesia": "saya",
+    "english": "i'm"
+  },
+  {
+    "japan": "いう",
+    "writing": "iu",
+    "indonesia": "mengatakan",
+    "english": "say"
+  },
+  {
+    "japan": "いく",
+    "writing": "iku",
+    "indonesia": "pergi",
+    "english": "go"
+  },
+  {
+    "japan": "いる",
+    "writing": "iru",
+    "indonesia": "ada",
+    "english": "there is"
+  },
+  {
+    "japan": "いれる",
+    "writing": "ireru",
+    "indonesia": "datang",
+    "english": "come in"
+  },
+  {
+    "japan": "うたう",
+    "writing": "utau",
+    "indonesia": "menyanyi",
+    "english": "sing"
+  },
+  {
+    "japan": "うまれる",
+    "writing": "umareru",
+    "indonesia": "itu akan dimakan",
+    "english": "it's gonna be eaten"
+  },
+  {
+    "japan": "うる",
+    "writing": "uru",
+    "indonesia": "uru",
+    "english": "uru"
+  },
+  {
+    "japan": "おきる",
+    "writing": "okiru",
+    "indonesia": "saya akan datang",
+    "english": "i'll come"
+  },
+  {
+    "japan": "おく",
+    "writing": "oku",
+    "indonesia": "meletakkan",
+    "english": "put"
+  },
+  {
+    "japan": "おくる",
+    "writing": "okuru",
+    "indonesia": "mengirim",
+    "english": "send"
+  },
+  {
+    "japan": "おす",
+    "writing": "osu",
+    "indonesia": "hai",
+    "english": "o"
+  },
+  {
+    "japan": "おぼえる",
+    "writing": "oboeru",
+    "indonesia": "saya ingat",
+    "english": "i remember"
+  },
+  {
+    "japan": "およぐ",
+    "writing": "oyogu",
+    "indonesia": "berenang",
+    "english": "swim"
+  },
+  {
+    "japan": "おりる",
+    "writing": "oriru",
+    "indonesia": "saya di sini",
+    "english": "i'm here"
+  },
+  {
+    "japan": "おわる",
+    "writing": "owaru",
+    "indonesia": "saya berakhir",
+    "english": "i'm over"
+  },
+  {
+    "japan": "かう",
+    "writing": "kau",
+    "indonesia": "membeli",
+    "english": "buy"
+  },
+  {
+    "japan": "かえす",
+    "writing": "kaesu",
+    "indonesia": "saya akan kembali",
+    "english": "i'll go back"
+  },
+  {
+    "japan": "かえる",
+    "writing": "kaeru",
+    "indonesia": "mengubah",
+    "english": "change"
+  },
+  {
+    "japan": "かかる",
+    "writing": "kakaru",
+    "indonesia": "dibutuhkan",
+    "english": "it takes"
+  },
+  {
+    "japan": "かく",
+    "writing": "kaku",
+    "indonesia": "menulis",
+    "english": "write"
+  },
+  {
+    "japan": "かける",
+    "writing": "kakeru",
+    "indonesia": "memakai",
+    "english": "put on"
+  },
+  {
+    "japan": "かす",
+    "writing": "kasu",
+    "indonesia": "abu",
+    "english": "ash"
+  },
+  {
+    "japan": "かぶる",
+    "writing": "kaburu",
+    "indonesia": "memakai",
+    "english": "put on"
+  },
+  {
+    "japan": "かりる",
+    "writing": "kariru",
+    "indonesia": "sakit",
+    "english": "i'll"
+  },
+  {
+    "japan": "きえる",
+    "writing": "kieru",
+    "indonesia": "tidak bisa dikeriting",
+    "english": "can't be curled"
+  },
+  {
+    "japan": "きく",
+    "writing": "kiku",
+    "indonesia": "mendengarkan",
+    "english": "listen"
+  },
+  {
+    "japan": "きる",
+    "writing": "kiru",
+    "indonesia": "itu datang",
+    "english": "it's coming"
+  },
+  {
+    "japan": "くる",
+    "writing": "kuru",
+    "indonesia": "datang",
+    "english": "come"
+  },
+  {
+    "japan": "けす",
+    "writing": "kesu",
+    "indonesia": "saya tidak akan",
+    "english": "i'm not going to"
+  },
+  {
+    "japan": "こたえる",
+    "writing": "kotaeru",
+    "indonesia": "menanggapi",
+    "english": "respond"
+  },
+  {
+    "japan": "こまる",
+    "writing": "komaru",
+    "indonesia": "sedikit",
+    "english": "a little"
+  },
+  {
+    "japan": "さく",
+    "writing": "saku",
+    "indonesia": "pagar",
+    "english": "fence"
+  },
+  {
+    "japan": "さす",
+    "writing": "sasu",
+    "indonesia": "melihat",
+    "english": "see"
+  },
+  {
+    "japan": "しぬ",
+    "writing": "shinu",
+    "indonesia": "tidak",
+    "english": "no"
+  },
+  {
+    "japan": "しまる",
+    "writing": "shimaru",
+    "indonesia": "meremas",
+    "english": "squeeze"
+  },
+  {
+    "japan": "しめる",
+    "writing": "shimeru",
+    "indonesia": "saya akan melakukannya",
+    "english": "i'll do it"
+  },
+  {
+    "japan": "しる",
+    "writing": "shiru",
+    "indonesia": "sakit",
+    "english": "i'll"
+  },
+  {
+    "japan": "すう",
+    "writing": "suu",
+    "indonesia": "mengisap",
+    "english": "suck"
+  },
+  {
+    "japan": "すむ",
+    "writing": "sumu",
+    "indonesia": "saya minta maaf",
+    "english": "i'm sorry"
+  },
+  {
+    "japan": "する",
+    "writing": "suru",
+    "indonesia": "mengerjakan",
+    "english": "do"
+  },
+  {
+    "japan": "すわる",
+    "writing": "suwaru",
+    "indonesia": "duduk",
+    "english": "sit down"
+  },
+  {
+    "japan": "だす",
+    "writing": "dasu",
+    "indonesia": "saya akan memberikannya",
+    "english": "i'll give it"
+  },
+  {
+    "japan": "たつ",
+    "writing": "tatsu",
+    "indonesia": "tatsu",
+    "english": "tatsu"
+  },
+  {
+    "japan": "たのむ",
+    "writing": "tanomu",
+    "indonesia": "tanomu",
+    "english": "tanomu"
+  },
+  {
+    "japan": "たべる",
+    "writing": "taberu",
+    "indonesia": "makan",
+    "english": "eat"
+  },
+  {
+    "japan": "つかう",
+    "writing": "tsukau",
+    "indonesia": "menggunakan",
+    "english": "use"
+  },
+  {
+    "japan": "ちがう",
+    "writing": "chigau",
+    "indonesia": "berbeda",
+    "english": "different"
+  },
+  {
+    "japan": "つかれる",
+    "writing": "tsukareru",
+    "indonesia": "saya bisa memakainya",
+    "english": "i can wear it"
+  },
+  {
+    "japan": "つく",
+    "writing": "tsuku",
+    "indonesia": "tiba",
+    "english": "arrive"
+  },
+  {
+    "japan": "つくる",
+    "writing": "tsukuru",
+    "indonesia": "buatlah",
+    "english": "make it"
+  },
+  {
+    "japan": "つける",
+    "writing": "tsukeru",
+    "indonesia": "pakai",
+    "english": "put it on"
+  },
+  {
+    "japan": "つとめる",
+    "writing": "tsutomeru",
+    "indonesia": "saya akan melakukannya",
+    "english": "i'll do it"
+  },
+  {
+    "japan": "でかける",
+    "writing": "dekakeru",
+    "indonesia": "keluar",
+    "english": "going out"
+  },
+  {
+    "japan": "できる",
+    "writing": "dekiru",
+    "indonesia": "bisa",
+    "english": "can"
+  },
+  {
+    "japan": "でる",
+    "writing": "deru",
+    "indonesia": "keluar",
+    "english": "go out"
+  },
+  {
+    "japan": "とぶ",
+    "writing": "tobu",
+    "indonesia": "tobu",
+    "english": "tobu"
+  },
+  {
+    "japan": "とまる",
+    "writing": "tomaru",
+    "indonesia": "berhenti",
+    "english": "stop"
+  },
+  {
+    "japan": "とる",
+    "writing": "toru",
+    "indonesia": "ambillah",
+    "english": "take it"
+  },
+  {
+    "japan": "なく",
+    "writing": "naku",
+    "indonesia": "tidak",
+    "english": "no"
+  },
+  {
+    "japan": "ならぶ",
+    "writing": "narabu",
+    "indonesia": "acak",
+    "english": "random"
+  },
+  {
+    "japan": "ならべる",
+    "writing": "naraberu",
+    "indonesia": "saya akan meletakkannya",
+    "english": "i'll put it"
+  },
+  {
+    "japan": "なる",
+    "writing": "naru",
+    "indonesia": "itu akan menjadi",
+    "english": "it's going to become"
+  },
+  {
+    "japan": "ぬぐ",
+    "writing": "nugu",
+    "indonesia": "nugu",
+    "english": "nugu"
+  },
+  {
+    "japan": "ねる",
+    "writing": "neru",
+    "indonesia": "tidur",
+    "english": "sleep"
+  },
+  {
+    "japan": "のぼる",
+    "writing": "noboru",
+    "indonesia": "mengangkat",
+    "english": "raise"
+  },
+  {
+    "japan": "のむ",
+    "writing": "nomu",
+    "indonesia": "nomu",
+    "english": "nomu"
+  },
+  {
+    "japan": "のる",
+    "writing": "noru",
+    "indonesia": "noru",
+    "english": "noru"
+  },
+  {
+    "japan": "はいる",
+    "writing": "hairu",
+    "indonesia": "ada",
+    "english": "there are"
+  },
+  {
+    "japan": "はく",
+    "writing": "haku",
+    "indonesia": "menggagalkan",
+    "english": "foil"
+  },
+  {
+    "japan": "はじまる",
+    "writing": "hajimaru",
+    "indonesia": "itu dimulai",
+    "english": "it starts"
+  },
+  {
+    "japan": "はしる",
+    "writing": "hashiru",
+    "indonesia": "memiliki",
+    "english": "has"
+  },
+  {
+    "japan": "はたらく",
+    "writing": "hataraku",
+    "indonesia": "bekerja",
+    "english": "working"
+  },
+  {
+    "japan": "はなす",
+    "writing": "hanasu",
+    "indonesia": "sakit",
+    "english": "i'll"
+  },
+  {
+    "japan": "はる",
+    "writing": "haru",
+    "indonesia": "musim semi",
+    "english": "spring"
+  },
+  {
+    "japan": "はれる",
+    "writing": "hareru",
+    "indonesia": "itu menjadi lebih baik",
+    "english": "it's getting better"
+  },
+  {
+    "japan": "ひく",
+    "writing": "hiku",
+    "indonesia": "memukul",
+    "english": "hit"
+  },
+  {
+    "japan": "ふる",
+    "writing": "furu",
+    "indonesia": "aku akan",
+    "english": "i'm gonna"
+  },
+  {
+    "japan": "まがる",
+    "writing": "magaru",
+    "indonesia": "luar biasa",
+    "english": "amazing"
+  },
+  {
+    "japan": "まつ",
+    "writing": "matsu",
+    "indonesia": "pohon pinus",
+    "english": "pine tree"
+  },
+  {
+    "japan": "みがく",
+    "writing": "migaku",
+    "indonesia": "menghancurkan",
+    "english": "smash"
+  },
+  {
+    "japan": "みせる",
+    "writing": "miseru",
+    "indonesia": "saya bisa melihatnya",
+    "english": "i can see it"
+  },
+  {
+    "japan": "みる",
+    "writing": "miru",
+    "indonesia": "melihat",
+    "english": "see"
+  },
+  {
+    "japan": "もつ",
+    "writing": "motsu",
+    "indonesia": "dia",
+    "english": "it's"
+  },
+  {
+    "japan": "やすむ",
+    "writing": "yasumu",
+    "indonesia": "itu bagus",
+    "english": "it's good"
+  },
+  {
+    "japan": "やる",
+    "writing": "yaru",
+    "indonesia": "mengerjakan",
+    "english": "do"
+  },
+  {
+    "japan": "よぶ",
+    "writing": "yobu",
+    "indonesia": "aku akan pergi",
+    "english": "i'm gonna go"
+  },
+  {
+    "japan": "よむ",
+    "writing": "yomu",
+    "indonesia": "membaca",
+    "english": "read"
+  },
+  {
+    "japan": "わかる",
+    "writing": "wakaru",
+    "indonesia": "saya mengerti",
+    "english": "i understand"
+  },
+  {
+    "japan": "わすれる",
+    "writing": "wasureru",
+    "indonesia": "lupa",
+    "english": "forget"
+  },
+  {
+    "japan": "わたす",
+    "writing": "watasu",
+    "indonesia": "sakit",
+    "english": "i'll"
+  },
+  {
+    "japan": "わたる",
+    "writing": "wataru",
+    "indonesia": "saya akan lulus",
+    "english": "i'll pass"
+  },
+  {
+    "japan": "ひかり",
+    "writing": "hikari",
+    "indonesia": "hikari",
+    "english": "hikari"
+  },
+  {
+    "japan": "あお",
+    "writing": "ao",
+    "indonesia": "biru",
+    "english": "blue"
+  },
+  {
+    "japan": "あか",
+    "writing": "aka",
+    "indonesia": "merah",
+    "english": "red"
+  },
+  {
+    "japan": "あき",
+    "writing": "aki",
+    "indonesia": "ruang bebas",
+    "english": "free space"
+  },
+  {
+    "japan": "し",
+    "writing": "shi",
+    "indonesia": "kematian",
+    "english": "death"
+  },
+  {
+    "japan": "あそこ",
+    "writing": "asoko",
+    "indonesia": "di sana",
+    "english": "over there"
+  },
+  {
+    "japan": "あちら",
+    "writing": "achira",
+    "indonesia": "di sana",
+    "english": "there"
+  },
+  {
+    "japan": "あと",
+    "writing": "ato",
+    "indonesia": "setelah",
+    "english": "after"
+  },
+  {
+    "japan": "あに",
+    "writing": "ani",
+    "indonesia": "saya",
+    "english": "i'm"
+  },
+  {
+    "japan": "あね",
+    "writing": "ane",
+    "indonesia": "ah",
+    "english": "ah"
+  },
+  {
+    "japan": "あの",
+    "writing": "ano",
+    "indonesia": "itu",
+    "english": "that"
+  },
+  {
+    "japan": "あれ",
+    "writing": "are",
+    "indonesia": "itu",
+    "english": "that"
+  },
+  {
+    "japan": "よい",
+    "writing": "yoi",
+    "indonesia": "bagus",
+    "english": "good"
+  },
+  {
+    "japan": "いかが",
+    "writing": "ikaga",
+    "indonesia": "bagaimana dengan itu",
+    "english": "how about it"
+  },
+  {
+    "japan": "いくつ",
+    "writing": "ikutsu",
+    "indonesia": "berapa banyak",
+    "english": "how many"
+  },
+  {
+    "japan": "いけ",
+    "writing": "ike",
+    "indonesia": "pergi",
+    "english": "go"
+  },
+  {
+    "japan": "いち",
+    "writing": "ichi",
+    "indonesia": "satu",
+    "english": "one"
+  },
+  {
+    "japan": "いつか",
+    "writing": "itsuka",
+    "indonesia": "suatu hari nanti",
+    "english": "someday"
+  },
+  {
+    "japan": "いつつ",
+    "writing": "itsutsu",
+    "indonesia": "ketika",
+    "english": "while"
+  },
+  {
+    "japan": "いぬ",
+    "writing": "inu",
+    "indonesia": "anjing",
+    "english": "dog"
+  },
+  {
+    "japan": "いもうと",
+    "writing": "imouto",
+    "indonesia": "saya",
+    "english": "i'm"
+  },
+  {
+    "japan": "いや",
+    "writing": "iya",
+    "indonesia": "tidak",
+    "english": "no"
+  },
+  {
+    "japan": "いりぐち",
+    "writing": "iriguchi",
+    "indonesia": "iriguchi",
+    "english": "iriguchi"
+  },
+  {
+    "japan": "いろ",
+    "writing": "iro",
+    "indonesia": "warna",
+    "english": "colour"
+  },
+  {
+    "japan": "うすい",
+    "writing": "usui",
+    "indonesia": "tipis",
+    "english": "thin"
+  },
+  {
+    "japan": "うみ",
+    "writing": "umi",
+    "indonesia": "laut",
+    "english": "sea"
+  },
+  {
+    "japan": "うるさい",
+    "writing": "urusai",
+    "indonesia": "bising",
+    "english": "noisy"
+  },
+  {
+    "japan": "うわぎ",
+    "writing": "uwagi",
+    "indonesia": "jaket",
+    "english": "jacket"
+  },
+  {
+    "japan": "えいが",
+    "writing": "eiga",
+    "indonesia": "film",
+    "english": "movie"
+  },
+  {
+    "japan": "えいがかん",
+    "writing": "eigakan",
+    "indonesia": "saya tidak",
+    "english": "i'm not"
+  },
+  {
+    "japan": "ええ",
+    "writing": "ee",
+    "indonesia": "ya",
+    "english": "yeah"
+  },
+  {
+    "japan": "おおい",
+    "writing": "ooi",
+    "indonesia": "oh baiklah",
+    "english": "oh well"
+  },
+  {
+    "japan": "おおきな",
+    "writing": "ookina",
+    "indonesia": "besar",
+    "english": "big"
+  },
+  {
+    "japan": "おおぜい",
+    "writing": "oozei",
+    "indonesia": "oh baiklah",
+    "english": "oh well"
+  },
+  {
+    "japan": "おかあさん",
+    "writing": "okaasan",
+    "indonesia": "mama",
+    "english": "mom"
+  },
+  {
+    "japan": "おくさん",
+    "writing": "okusan",
+    "indonesia": "oku",
+    "english": "oku"
+  },
+  {
+    "japan": "おさら",
+    "writing": "osara",
+    "indonesia": "saya",
+    "english": "i'm"
+  },
+  {
+    "japan": "おじいさん",
+    "writing": "ojiisan",
+    "indonesia": "kakek",
+    "english": "grandpa"
+  },
+  {
+    "japan": "おしえる",
+    "writing": "oshieru",
+    "indonesia": "aku akan memberitahumu",
+    "english": "i'll tell you"
+  },
+  {
+    "japan": "おじさん",
+    "writing": "ojisan",
+    "indonesia": "paman",
+    "english": "uncle"
+  },
+  {
+    "japan": "おちゃ",
+    "writing": "ochiゃ",
+    "indonesia": "ocha",
+    "english": "ocha"
+  },
+  {
+    "japan": "おとうさん",
+    "writing": "otousan",
+    "indonesia": "ayah",
+    "english": "dad"
+  },
+  {
+    "japan": "おとうと",
+    "writing": "otouto",
+    "indonesia": "ayah",
+    "english": "dad"
+  },
+  {
+    "japan": "おととし",
+    "writing": "ototoshi",
+    "indonesia": "kemarin",
+    "english": "yesterday"
+  },
+  {
+    "japan": "おとな",
+    "writing": "otona",
+    "indonesia": "dewasa",
+    "english": "adult"
+  },
+  {
+    "japan": "おにいさん",
+    "writing": "oniisan",
+    "indonesia": "lebih tua",
+    "english": "older"
+  },
+  {
+    "japan": "おねえさん",
+    "writing": "oneesan",
+    "indonesia": "saudari",
+    "english": "sister"
+  },
+  {
+    "japan": "おばあさん",
+    "writing": "obaasan",
+    "indonesia": "nenek",
+    "english": "grandma"
+  },
+  {
+    "japan": "おふろ",
+    "writing": "ofuro",
+    "indonesia": "kamar mandi",
+    "english": "bathroom"
+  },
+  {
+    "japan": "おべんとう",
+    "writing": "obentou",
+    "indonesia": "roti",
+    "english": "bread"
+  },
+  {
+    "japan": "おまわりさん",
+    "writing": "omawarisan",
+    "indonesia": "polisi",
+    "english": "policeman"
+  },
+  {
+    "japan": "おもしろい",
+    "writing": "omoshiroi",
+    "indonesia": "lucu",
+    "english": "funny"
+  },
+  {
+    "japan": "がいこくじん",
+    "writing": "gaikokujin",
+    "indonesia": "gingakujin",
+    "english": "gingakujin"
+  },
+  {
+    "japan": "かいしゃ",
+    "writing": "kaishiゃ",
+    "indonesia": "perusahaan",
+    "english": "company"
+  },
+  {
+    "japan": "かいだん",
+    "writing": "kaidan",
+    "indonesia": "kaidan",
+    "english": "kaidan"
+  },
+  {
+    "japan": "かいもの",
+    "writing": "kaimono",
+    "indonesia": "sesuatu",
+    "english": "something"
+  },
+  {
+    "japan": "かぜ",
+    "writing": "kaze",
+    "indonesia": "dingin",
+    "english": "cold"
+  },
+  {
+    "japan": "かた",
+    "writing": "kata",
+    "indonesia": "bahu",
+    "english": "shoulder"
+  },
+  {
+    "japan": "かてい",
+    "writing": "katei",
+    "indonesia": "katei",
+    "english": "katei"
+  },
+  {
+    "japan": "かど",
+    "writing": "kado",
+    "indonesia": "kado",
+    "english": "kado"
+  },
+  {
+    "japan": "かびん",
+    "writing": "kabin",
+    "indonesia": "cetakan",
+    "english": "mold"
+  },
+  {
+    "japan": "かわ",
+    "writing": "kawa",
+    "indonesia": "sungai",
+    "english": "river"
+  },
+  {
+    "japan": "かわいい",
+    "writing": "kawaii",
+    "indonesia": "imut-imut",
+    "english": "cute"
+  },
+  {
+    "japan": "かんじ",
+    "writing": "kanji",
+    "indonesia": "saya merasa",
+    "english": "i feel"
+  },
+  {
+    "japan": "き",
+    "writing": "ki",
+    "indonesia": "pohon",
+    "english": "tree"
+  },
+  {
+    "japan": "きいろ",
+    "writing": "kiiro",
+    "indonesia": "kuning",
+    "english": "yellow"
+  },
+  {
+    "japan": "きいろい",
+    "writing": "kiiroi",
+    "indonesia": "saya sangat senang",
+    "english": "i'm so happy"
+  },
+  {
+    "japan": "きた",
+    "writing": "kita",
+    "indonesia": "telah datang",
+    "english": "came"
+  },
+  {
+    "japan": "きたない",
+    "writing": "kitanai",
+    "indonesia": "tidak ada di sini",
+    "english": "it's not here"
+  },
+  {
+    "japan": "くつした",
+    "writing": "kutsushita",
+    "indonesia": "saya memakainya",
+    "english": "i put it on"
+  },
+  {
+    "japan": "くもる",
+    "writing": "kumoru",
+    "indonesia": "salju",
+    "english": "snow"
+  },
+  {
+    "japan": "くろ",
+    "writing": "kuro",
+    "indonesia": "hitam",
+    "english": "black"
+  },
+  {
+    "japan": "けいかん",
+    "writing": "keikan",
+    "indonesia": "saya tidak",
+    "english": "i'm not"
+  },
+  {
+    "japan": "けっこう",
+    "writing": "keっkou",
+    "indonesia": "cukup sedikit",
+    "english": "quite a bit"
+  },
+  {
+    "japan": "げんかん",
+    "writing": "genkan",
+    "indonesia": "seru",
+    "english": "fun"
+  },
+  {
+    "japan": "ご",
+    "writing": "go",
+    "indonesia": "pergi",
+    "english": "go"
+  },
+  {
+    "japan": "こうさてん",
+    "writing": "kousaten",
+    "indonesia": "itu saja",
+    "english": "that's it"
+  },
+  {
+    "japan": "こうばん",
+    "writing": "kouban",
+    "indonesia": "koban",
+    "english": "koban"
+  },
+  {
+    "japan": "こえ",
+    "writing": "koe",
+    "indonesia": "ah",
+    "english": "ah"
+  },
+  {
+    "japan": "ここ",
+    "writing": "koko",
+    "indonesia": "di sini",
+    "english": "here"
+  },
+  {
+    "japan": "ここのか",
+    "writing": "kokonoka",
+    "indonesia": "apakah disini?",
+    "english": "is it here?"
+  },
+  {
+    "japan": "ここのつ",
+    "writing": "kokonotsu",
+    "indonesia": "di sini",
+    "english": "here"
+  },
+  {
+    "japan": "こちら",
+    "writing": "kochira",
+    "indonesia": "di sini",
+    "english": "here"
+  },
+  {
+    "japan": "ことば",
+    "writing": "kotoba",
+    "indonesia": "kata-kata",
+    "english": "words"
+  },
+  {
+    "japan": "この",
+    "writing": "kono",
+    "indonesia": "ini",
+    "english": "this"
+  },
+  {
+    "japan": "これ",
+    "writing": "kore",
+    "indonesia": "ini",
+    "english": "this"
+  },
+  {
+    "japan": "こんな",
+    "writing": "konna",
+    "indonesia": "ini",
+    "english": "this"
+  },
+  {
+    "japan": "さあ",
+    "writing": "saa",
+    "indonesia": "ini dia",
+    "english": "here we go"
+  },
+  {
+    "japan": "さいふ",
+    "writing": "saifu",
+    "indonesia": "saya tidak yakin apa",
+    "english": "i'm not sure what"
+  },
+  {
+    "japan": "さき",
+    "writing": "saki",
+    "indonesia": "tip",
+    "english": "tip"
+  },
+  {
+    "japan": "さくぶん",
+    "writing": "sakubun",
+    "indonesia": "ceri",
+    "english": "cherry"
+  },
+  {
+    "japan": "さらいねん",
+    "writing": "sarainen",
+    "indonesia": "aku akan memberimu menyalahkan",
+    "english": "i'm gonna give you a blaming"
+  },
+  {
+    "japan": "さん",
+    "writing": "san",
+    "indonesia": "tuan miss.",
+    "english": "mr. miss."
+  },
+  {
+    "japan": "さんぽする",
+    "writing": "sanposuru",
+    "indonesia": "berjalan",
+    "english": "walk"
+  },
+  {
+    "japan": "よん",
+    "writing": "yon",
+    "indonesia": "empat",
+    "english": "four"
+  },
+  {
+    "japan": "しかし",
+    "writing": "shikashi",
+    "indonesia": "tetapi",
+    "english": "but"
+  },
+  {
+    "japan": "しち",
+    "writing": "shichi",
+    "indonesia": "shichi",
+    "english": "shichi"
+  },
+  {
+    "japan": "なな",
+    "writing": "nana",
+    "indonesia": "tujuh",
+    "english": "seven"
+  },
+  {
+    "japan": "じびき",
+    "writing": "jibiki",
+    "indonesia": "memukul",
+    "english": "strike"
+  },
+  {
+    "japan": "じぶん",
+    "writing": "jibun",
+    "indonesia": "saya sendiri",
+    "english": "myself"
+  },
+  {
+    "japan": "しろ",
+    "writing": "shiro",
+    "indonesia": "putih",
+    "english": "white"
+  },
+  {
+    "japan": "すくない",
+    "writing": "sukunai",
+    "indonesia": "tidak terlalu",
+    "english": "not very"
+  },
+  {
+    "japan": "すぐに",
+    "writing": "suguni",
+    "indonesia": "langsung",
+    "english": "immediately"
+  },
+  {
+    "japan": "せ",
+    "writing": "se",
+    "indonesia": "tinggi",
+    "english": "height"
+  },
+  {
+    "japan": "せいと",
+    "writing": "seito",
+    "indonesia": "saya",
+    "english": "i'm"
+  },
+  {
+    "japan": "せびろ",
+    "writing": "sebiro",
+    "indonesia": "menyelinap",
+    "english": "sneak"
+  },
+  {
+    "japan": "せんげつ",
+    "writing": "sengetsu",
+    "indonesia": "sensgetsu",
+    "english": "sengetsu"
+  },
+  {
+    "japan": "せんせい",
+    "writing": "sensei",
+    "indonesia": "guru",
+    "english": "teacher"
+  },
+  {
+    "japan": "せんたく",
+    "writing": "sentaku",
+    "indonesia": "pencucian",
+    "english": "washing"
+  },
+  {
+    "japan": "そうじする",
+    "writing": "soujisuru",
+    "indonesia": "saya akan membersihkannya",
+    "english": "i'll clean it"
+  },
+  {
+    "japan": "そこ",
+    "writing": "soko",
+    "indonesia": "di sana",
+    "english": "there"
+  },
+  {
+    "japan": "そちら",
+    "writing": "sochira",
+    "indonesia": "di sana",
+    "english": "there"
+  },
+  {
+    "japan": "その",
+    "writing": "sono",
+    "indonesia": "itu",
+    "english": "the"
+  },
+  {
+    "japan": "そば",
+    "writing": "soba",
+    "indonesia": "soba",
+    "english": "buckwheat"
+  },
+  {
+    "japan": "そら",
+    "writing": "sora",
+    "indonesia": "benar",
+    "english": "right"
+  },
+  {
+    "japan": "それ",
+    "writing": "sore",
+    "indonesia": "itu",
+    "english": "that"
+  },
+  {
+    "japan": "それでは",
+    "writing": "soredeha",
+    "indonesia": "baiklah kalau begitu",
+    "english": "well then"
+  },
+  {
+    "japan": "だいすき",
+    "writing": "daisuki",
+    "indonesia": "saya menyukainya",
+    "english": "i love it"
+  },
+  {
+    "japan": "だいどころ",
+    "writing": "daidokoro",
+    "indonesia": "hal terbaik",
+    "english": "the best thing"
+  },
+  {
+    "japan": "たいへん",
+    "writing": "taihen",
+    "indonesia": "sangat banyak",
+    "english": "very much"
+  },
+  {
+    "japan": "たくさん",
+    "writing": "takusan",
+    "indonesia": "banyak",
+    "english": "a lot"
+  },
+  {
+    "japan": "たて",
+    "writing": "tate",
+    "indonesia": "vertikal",
+    "english": "vertical"
+  },
+  {
+    "japan": "たてもの",
+    "writing": "tatemono",
+    "indonesia": "akhir",
+    "english": "the end"
+  },
+  {
+    "japan": "だれか",
+    "writing": "dareka",
+    "indonesia": "seseorang",
+    "english": "someone"
+  },
+  {
+    "japan": "ちいさな",
+    "writing": "chiisana",
+    "indonesia": "kecil",
+    "english": "a small"
+  },
+  {
+    "japan": "つまらない",
+    "writing": "tsumaranai",
+    "indonesia": "membosankan",
+    "english": "boring"
+  },
+  {
+    "japan": "つよい",
+    "writing": "tsuyoi",
+    "indonesia": "kuat",
+    "english": "strong"
+  },
+  {
+    "japan": "でぐち",
+    "writing": "deguchi",
+    "indonesia": "deguchi",
+    "english": "deguchi"
+  },
+  {
+    "japan": "では",
+    "writing": "deha",
+    "indonesia": "baiklah kalau begitu",
+    "english": "well then"
+  },
+  {
+    "japan": "でも",
+    "writing": "demo",
+    "indonesia": "tetapi",
+    "english": "but"
+  },
+  {
+    "japan": "と",
+    "writing": "to",
+    "indonesia": "dan",
+    "english": "and"
+  },
+  {
+    "japan": "どう",
+    "writing": "dou",
+    "indonesia": "tembaga",
+    "english": "copper"
+  },
+  {
+    "japan": "どうぶつ",
+    "writing": "doubutsu",
+    "indonesia": "hewan",
+    "english": "animals"
+  },
+  {
+    "japan": "どうも",
+    "writing": "doumo",
+    "indonesia": "terima kasih",
+    "english": "thank you"
+  },
+  {
+    "japan": "とけい",
+    "writing": "tokei",
+    "indonesia": "tokei",
+    "english": "tokei"
+  },
+  {
+    "japan": "とし",
+    "writing": "toshi",
+    "indonesia": "tahun",
+    "english": "year"
+  },
+  {
+    "japan": "どちら",
+    "writing": "dochira",
+    "indonesia": "yang",
+    "english": "which"
+  },
+  {
+    "japan": "どなた",
+    "writing": "donata",
+    "indonesia": "siapa itu",
+    "english": "who is it"
+  },
+  {
+    "japan": "どの",
+    "writing": "dono",
+    "indonesia": "yang",
+    "english": "which"
+  },
+  {
+    "japan": "とり",
+    "writing": "tori",
+    "indonesia": "burung",
+    "english": "bird"
+  },
+  {
+    "japan": "なくす",
+    "writing": "nakusu",
+    "indonesia": "kehilangan",
+    "english": "lose"
+  },
+  {
+    "japan": "なぜ",
+    "writing": "naze",
+    "indonesia": "mengapa",
+    "english": "why"
+  },
+  {
+    "japan": "なつ",
+    "writing": "natsu",
+    "indonesia": "musim panas",
+    "english": "summer"
+  },
+  {
+    "japan": "なつやすみ",
+    "writing": "natsuyasumi",
+    "indonesia": "senang berkenalan dengan anda",
+    "english": "nice to meet you"
+  },
+  {
+    "japan": "など",
+    "writing": "nado",
+    "indonesia": "dll.",
+    "english": "etc."
+  },
+  {
+    "japan": "ななつ",
+    "writing": "nanatsu",
+    "indonesia": "nanatsu",
+    "english": "nanatsu"
+  },
+  {
+    "japan": "なのか",
+    "writing": "nanoka",
+    "indonesia": "begitu?",
+    "english": "is that so?"
+  },
+  {
+    "japan": "ならう",
+    "writing": "narau",
+    "indonesia": "saya akan melakukannya",
+    "english": "i'll do it"
+  },
+  {
+    "japan": "にし",
+    "writing": "nishi",
+    "indonesia": "barat",
+    "english": "west"
+  },
+  {
+    "japan": "ぬるい",
+    "writing": "nurui",
+    "indonesia": "suam -suam kuku",
+    "english": "lukewarm"
+  },
+  {
+    "japan": "ねこ",
+    "writing": "neko",
+    "indonesia": "kucing",
+    "english": "cat"
+  },
+  {
+    "japan": "はがき",
+    "writing": "hagaki",
+    "indonesia": "kartu pos",
+    "english": "postcard"
+  },
+  {
+    "japan": "はじめ",
+    "writing": "hajime",
+    "indonesia": "awal",
+    "english": "beginning"
+  },
+  {
+    "japan": "はじめて",
+    "writing": "hajimete",
+    "indonesia": "pertama kali",
+    "english": "first time"
+  },
+  {
+    "japan": "はたち",
+    "writing": "hatachi",
+    "indonesia": "hatachi",
+    "english": "hatachi"
+  },
+  {
+    "japan": "はち",
+    "writing": "hachi",
+    "indonesia": "hachi",
+    "english": "hachi"
+  },
+  {
+    "japan": "はなし",
+    "writing": "hanashi",
+    "indonesia": "cerita",
+    "english": "story"
+  },
+  {
+    "japan": "はれ",
+    "writing": "hare",
+    "indonesia": "bagus",
+    "english": "fine"
+  },
+  {
+    "japan": "はん",
+    "writing": "han",
+    "indonesia": "han",
+    "english": "han"
+  },
+  {
+    "japan": "ばんごう",
+    "writing": "bangou",
+    "indonesia": "nomor",
+    "english": "number"
+  },
+  {
+    "japan": "はんぶん",
+    "writing": "hanbun",
+    "indonesia": "hambun",
+    "english": "hambun"
+  },
+  {
+    "japan": "ひがし",
+    "writing": "higashi",
+    "indonesia": "timur",
+    "english": "eastern"
+  },
+  {
+    "japan": "ひとつ",
+    "writing": "hitotsu",
+    "indonesia": "satu",
+    "english": "one"
+  },
+  {
+    "japan": "ひとつき",
+    "writing": "hitotsuki",
+    "indonesia": "satu",
+    "english": "one"
+  },
+  {
+    "japan": "ふたつ",
+    "writing": "futatsu",
+    "indonesia": "dua",
+    "english": "two"
+  },
+  {
+    "japan": "ふつか",
+    "writing": "futsuka",
+    "indonesia": "sedikit",
+    "english": "a little"
+  },
+  {
+    "japan": "ふとい",
+    "writing": "futoi",
+    "indonesia": "tiba -tiba",
+    "english": "a sudden"
+  },
+  {
+    "japan": "ふゆ",
+    "writing": "fuyu",
+    "indonesia": "musim dingin",
+    "english": "winter"
+  },
+  {
+    "japan": "ふろ",
+    "writing": "furo",
+    "indonesia": "mandi",
+    "english": "bath"
+  },
+  {
+    "japan": "へん",
+    "writing": "hen",
+    "indonesia": "aneh",
+    "english": "weird"
+  },
+  {
+    "japan": "ほか",
+    "writing": "hoka",
+    "indonesia": "yang lain",
+    "english": "others"
+  },
+  {
+    "japan": "ほそい",
+    "writing": "hosoi",
+    "indonesia": "manis",
+    "english": "sweet"
+  },
+  {
+    "japan": "ほんだな",
+    "writing": "hondana",
+    "indonesia": "itu a",
+    "english": "it's a"
+  },
+  {
+    "japan": "ほんとう",
+    "writing": "hontou",
+    "indonesia": "sungguh",
+    "english": "really"
+  },
+  {
+    "japan": "まずい",
+    "writing": "mazui",
+    "indonesia": "buruk",
+    "english": "bad"
+  },
+  {
+    "japan": "また",
+    "writing": "mata",
+    "indonesia": "juga",
+    "english": "also"
+  },
+  {
+    "japan": "まるい",
+    "writing": "marui",
+    "indonesia": "ini bulat",
+    "english": "it's round"
+  },
+  {
+    "japan": "まんねんひつ",
+    "writing": "mannenhitsu",
+    "indonesia": "mannen hitsu",
+    "english": "mannen hitsu"
+  },
+  {
+    "japan": "みどり",
+    "writing": "midori",
+    "indonesia": "hijau",
+    "english": "green"
+  },
+  {
+    "japan": "みなさん",
+    "writing": "minasan",
+    "indonesia": "setiap orang",
+    "english": "everyone"
+  },
+  {
+    "japan": "みなみ",
+    "writing": "minami",
+    "indonesia": "minami",
+    "english": "minami"
+  },
+  {
+    "japan": "みんな",
+    "writing": "minna",
+    "indonesia": "setiap orang",
+    "english": "everyone"
+  },
+  {
+    "japan": "むこう",
+    "writing": "mukou",
+    "indonesia": "ayo pergi",
+    "english": "let's go"
+  },
+  {
+    "japan": "むら",
+    "writing": "mura",
+    "indonesia": "memikirkan",
+    "english": "mull"
+  },
+  {
+    "japan": "もう",
+    "writing": "mou",
+    "indonesia": "sudah",
+    "english": "already"
+  },
+  {
+    "japan": "もういちど",
+    "writing": "mouichido",
+    "indonesia": "sekali lagi",
+    "english": "once more"
+  },
+  {
+    "japan": "もん",
+    "writing": "mon",
+    "indonesia": "senin",
+    "english": "mon"
+  },
+  {
+    "japan": "もんだい",
+    "writing": "mondai",
+    "indonesia": "masalah",
+    "english": "problem"
+  },
+  {
+    "japan": "やおや",
+    "writing": "yaoya",
+    "indonesia": "oh",
+    "english": "oh"
+  },
+  {
+    "japan": "やさしい",
+    "writing": "yasashii",
+    "indonesia": "baik",
+    "english": "kind"
+  },
+  {
+    "japan": "やすみ",
+    "writing": "yasumi",
+    "indonesia": "istirahat",
+    "english": "rest"
+  },
+  {
+    "japan": "ゆうがた",
+    "writing": "yuugata",
+    "indonesia": "yugata",
+    "english": "yugata"
+  },
+  {
+    "japan": "ゆうはん",
+    "writing": "yuuhan",
+    "indonesia": "yuhan",
+    "english": "yuhan"
+  },
+  {
+    "japan": "ゆうべ",
+    "writing": "yuube",
+    "indonesia": "yube",
+    "english": "yube"
+  },
+  {
+    "japan": "ゆく",
+    "writing": "yuku",
+    "indonesia": "pergi",
+    "english": "going"
+  },
+  {
+    "japan": "ようふく",
+    "writing": "youfuku",
+    "indonesia": "saya",
+    "english": "i'm"
+  },
+  {
+    "japan": "よこ",
+    "writing": "yoko",
+    "indonesia": "berikutnya",
+    "english": "next"
+  },
+  {
+    "japan": "よわい",
+    "writing": "yowai",
+    "indonesia": "wow",
+    "english": "wow"
+  },
+  {
+    "japan": "れい",
+    "writing": "rei",
+    "indonesia": "roh",
+    "english": "spirit"
+  },
+  {
+    "japan": "れいぞうこ",
+    "writing": "reizouko",
+    "indonesia": "reizoko",
+    "english": "reizoko"
+  },
+  {
+    "japan": "ろうか",
+    "writing": "rouka",
+    "indonesia": "mungkin",
+    "english": "maybe"
+  },
+  {
+    "japan": "ろく",
+    "writing": "roku",
+    "indonesia": "benar-benar",
+    "english": "really"
+  },
+  {
+    "japan": "わたくし",
+    "writing": "watakushi",
+    "indonesia": "aku",
+    "english": "me"
+  },
+  {
+    "japan": "より",
+    "writing": "yori",
+    "indonesia": "memutar",
+    "english": "twist"
+  },
+  {
+    "japan": "ほう",
+    "writing": "hou",
+    "indonesia": "hukum",
+    "english": "law"
+  },
+  {
+    "japan": "あのかた",
+    "writing": "anokata",
+    "indonesia": "pria itu",
+    "english": "that guy"
+  },
+  {
+    "japan": "きょうし",
+    "writing": "kiょushi",
+    "indonesia": "hari ini",
+    "english": "today"
+  },
+  {
+    "japan": "かいしゃいん",
+    "writing": "kaishiゃin",
+    "indonesia": "itu ide yang bagus",
+    "english": "it's a good idea"
+  },
+  {
+    "japan": "あんぜんつうろ",
+    "writing": "anzentsuuro",
+    "indonesia": "stomp aman",
+    "english": "safe stomp"
+  },
+  {
+    "japan": "あんぜんだいいち",
+    "writing": "anzendaiichi",
+    "indonesia": "itu terlalu banyak",
+    "english": "it's too much"
+  },
+  {
+    "japan": "たちいりきんし",
+    "writing": "tachiirikinshi",
+    "indonesia": "tachiirikinshi",
+    "english": "tachiirikinshi"
+  },
+  {
+    "japan": "かきげんきん",
+    "writing": "kakigenkin",
+    "indonesia": "kakigenkin",
+    "english": "kakigenkin"
+  },
+  {
+    "japan": "ほごぐちゃくよう",
+    "writing": "hogoguchiゃkuyou",
+    "indonesia": "saya akan mengacaukannya",
+    "english": "i'm going to mess with it"
+  },
+  {
+    "japan": "ずじょうちゅうい\n/",
+    "writing": "zujouchuui\n/",
+    "indonesia": "saya sangat senang\n/",
+    "english": "i'm so happy\n"
+  },
+  {
+    "japan": "あしもとちゅうい",
+    "writing": "ashimotochuui",
+    "indonesia": "ashimoto dan chu",
+    "english": "ashimoto and chu"
+  },
+  {
+    "japan": "てんけんちゅう",
+    "writing": "tenkenchuu",
+    "indonesia": "tenkenchu",
+    "english": "tenkenchu"
+  },
+  {
+    "japan": "あいずかくにん",
+    "writing": "aizukakunin",
+    "indonesia": "izukakunin",
+    "english": "izukakunin"
+  },
+  {
+    "japan": "かんでんちゅうい",
+    "writing": "kandenchuui",
+    "indonesia": "aku akan cum",
+    "english": "i'm gonna cum"
+  },
+  {
+    "japan": "つうでんちゅう",
+    "writing": "tsuudenchuu",
+    "indonesia": "tsudenchu",
+    "english": "tsudenchu"
+  },
+  {
+    "japan": "もちだしきんし",
+    "writing": "mochidashikinshi",
+    "indonesia": "mochidashikin",
+    "english": "mochidashikin"
+  },
+  {
+    "japan": "ちゅうすいげんきん",
+    "writing": "chuusuigenkin",
+    "indonesia": "saya tidak senang",
+    "english": "i'm not happy"
+  },
+  {
+    "japan": "さわるな",
+    "writing": "sawaruna",
+    "indonesia": "jangan menyentuhnya",
+    "english": "don't touch it"
+  },
+  {
+    "japan": "とりあつかいちゅい",
+    "writing": "toriatsukaichui",
+    "indonesia": "saya akan menghadapinya",
+    "english": "i'll deal with it"
+  },
+  {
+    "japan": "てんちむよう",
+    "writing": "tenchimuyou",
+    "indonesia": "aku akan",
+    "english": "i'm going to"
+  },
+  {
+    "japan": "さゆうかくにん",
+    "writing": "sayuukakunin",
+    "indonesia": "skuukakunin",
+    "english": "sayuukakunin"
+  },
+  {
+    "japan": "つうこうきんし",
+    "writing": "tsuukoukinshi",
+    "indonesia": "tsukukokinshi",
+    "english": "tsukukokinshi"
+  },
+  {
+    "japan": "せいりせいとん",
+    "writing": "seiriseiton",
+    "indonesia": "seiri seiton",
+    "english": "seiri seiton"
+  },
+  {
+    "japan": "しょうかき",
+    "writing": "shoukaki",
+    "indonesia": "imitasi",
+    "english": "imitation"
+  },
+  {
+    "japan": "しゅうりちゅう",
+    "writing": "shuurichuu",
+    "indonesia": "timun",
+    "english": "cucumber"
+  },
+  {
+    "japan": "きつえんじょ",
+    "writing": "kitsuenjo",
+    "indonesia": "ketat",
+    "english": "tight"
+  },
+  {
+    "japan": "かどうちゅう",
+    "writing": "kadouchuu",
+    "indonesia": "aku tidak akan",
+    "english": "i'm not gonna"
+  },
+  {
+    "japan": "きゅしちゅう",
+    "writing": "kyushichuu",
+    "indonesia": "saya sangat bersemangat",
+    "english": "i'm so excited"
+  },
+  {
+    "japan": "くみたてちゅう",
+    "writing": "kumitatechuu",
+    "indonesia": "aku akan",
+    "english": "i'm going to"
+  },
+  {
+    "japan": "ていでんさぎょうちゅう",
+    "writing": "teidensagyouchuu",
+    "indonesia": "teidensagyochu",
+    "english": "teidensagyochu"
+  },
+  {
+    "japan": "かいたいちゅう",
+    "writing": "kaitaichuu",
+    "indonesia": "saya",
+    "english": "i'm"
+  },
+  {
+    "japan": "そくていちゅう",
+    "writing": "sokuteichuu",
+    "indonesia": "segera",
+    "english": "soon"
+  },
+  {
+    "japan": "けいそくちゅう",
+    "writing": "keisokuchuu",
+    "indonesia": "saya sangat bersemangat",
+    "english": "i'm so excited"
+  },
+  {
+    "japan": "てんけんれいこう",
+    "writing": "tenkenreikou",
+    "indonesia": "ayo pergi ke balasan",
+    "english": "let's go to the replies"
+  },
+  {
+    "japan": "ていしかくにん",
+    "writing": "teishikakunin",
+    "indonesia": "dia",
+    "english": "it's"
+  },
+  {
+    "japan": "ゆびさしこしょう",
+    "writing": "yubisashikoshou",
+    "indonesia": "ayo pergi",
+    "english": "let's go"
+  },
+  {
+    "japan": "ふくしょうれいこう",
+    "writing": "fukushoureikou",
+    "indonesia": "aku akan",
+    "english": "i'm going to"
+  },
+  {
+    "japan": "てあらいれいこう",
+    "writing": "tearaireikou",
+    "indonesia": "ayo lakukan",
+    "english": "let's do it"
+  },
+  {
+    "japan": "ひじょうぐち",
+    "writing": "hijouguchi",
+    "indonesia": "hijoguchi",
+    "english": "hijoguchi"
+  },
+  {
+    "japan": "きけんぶつ",
+    "writing": "kikenbutsu",
+    "indonesia": "sedikit",
+    "english": "a little bit"
+  },
+  {
+    "japan": "ゆうがいぶつ",
+    "writing": "yuugaibutsu",
+    "indonesia": "yugakusu",
+    "english": "yugakusu"
+  },
+  {
+    "japan": "どくげきぶつ",
+    "writing": "dokugekibutsu",
+    "indonesia": "menakjubkan",
+    "english": "impressive"
+  },
+  {
+    "japan": "きをつけよ",
+    "writing": "kiwotsukeyo",
+    "indonesia": "hati-hati",
+    "english": "be careful"
+  },
+  {
+    "japan": "きけん",
+    "writing": "kiken",
+    "indonesia": "kiken",
+    "english": "kiken"
+  },
+  {
+    "japan": "きけんしんごう",
+    "writing": "kikenshingou",
+    "indonesia": "kikenshingo",
+    "english": "kikenshingo"
+  },
+  {
+    "japan": "しようきんし",
+    "writing": "shiyoukinshi",
+    "indonesia": "aku akan",
+    "english": "i'm going to"
+  },
+  {
+    "japan": "せいそうせいけつ",
+    "writing": "seisouseiketsu",
+    "indonesia": "saya tidak akan bersemangat",
+    "english": "i'm not going to get excited"
+  },
+  {
+    "japan": "きゅうきゅうばこ",
+    "writing": "kyuukyuubako",
+    "indonesia": "saya basah",
+    "english": "i'm soggy"
+  },
+  {
+    "japan": "とまれ",
+    "writing": "tomare",
+    "indonesia": "saya tidak",
+    "english": "i'm not"
+  },
+  {
+    "japan": "こうじちゅう",
+    "writing": "koujichuu",
+    "indonesia": "kojichu",
+    "english": "kojichu"
+  },
+  {
+    "japan": "かいこうぶちゅうい",
+    "writing": "kaikoubuchuui",
+    "indonesia": "saya sangat senang",
+    "english": "i'm so happy"
+  },
+  {
+    "japan": "こうあつちゅうい",
+    "writing": "kouatsuchuui",
+    "indonesia": "saya sangat bersemangat",
+    "english": "i'm so excited"
+  },
+  {
+    "japan": "こしょうちゅう",
+    "writing": "koshouchuu",
+    "indonesia": "merica",
+    "english": "pepper"
+  },
+  {
+    "japan": "きれいな",
+    "writing": "kireina",
+    "indonesia": "cantik",
+    "english": "beautiful"
+  },
+  {
+    "japan": "しん",
+    "writing": "shin",
+    "indonesia": "inti",
+    "english": "core"
+  },
+  {
+    "japan": "りょう",
+    "writing": "ryou",
+    "indonesia": "penangkapan ikan",
+    "english": "fishing"
+  },
+  {
+    "japan": "わる",
+    "writing": "waru",
+    "indonesia": "sakit",
+    "english": "i'll"
+  },
+  {
+    "japan": "うまい",
+    "writing": "umai",
+    "indonesia": "bagus",
+    "english": "good"
+  },
+  {
+    "japan": "ちゃいろ",
+    "writing": "chairo",
+    "indonesia": "ayo",
+    "english": "come on"
+  },
+  {
+    "japan": "むらさき",
+    "writing": "murasaki",
+    "indonesia": "murasaki",
+    "english": "murasaki"
+  },
+  {
+    "japan": "にがい",
+    "writing": "nigai",
+    "indonesia": "saya sangat senang",
+    "english": "i'm so happy"
+  },
+  {
+    "japan": "つらい",
+    "writing": "tsurai",
+    "indonesia": "keras",
+    "english": "tough"
+  },
+  {
+    "japan": "しおからい",
+    "writing": "shiokarai",
+    "indonesia": "shiokara",
+    "english": "shiokara"
+  },
+  {
+    "japan": "こい",
+    "writing": "koi",
+    "indonesia": "cinta",
+    "english": "love"
+  },
+  {
+    "japan": "すっぱい",
+    "writing": "suっpai",
+    "indonesia": "kecut",
+    "english": "sour"
+  },
+  {
+    "japan": "すきな",
+    "writing": "sukina",
+    "indonesia": "favorit",
+    "english": "favorite"
+  },
+  {
+    "japan": "きらいな",
+    "writing": "kiraina",
+    "indonesia": "aku benci itu",
+    "english": "i hate it"
+  },
+  {
+    "japan": "じょうず",
+    "writing": "jouzu",
+    "indonesia": "kerja bagus",
+    "english": "good job"
+  },
+  {
+    "japan": "ざんねんな",
+    "writing": "zannenna",
+    "indonesia": "itu tidak bagus",
+    "english": "that's not good"
+  },
+  {
+    "japan": "いろいろな",
+    "writing": "iroirona",
+    "indonesia": "bermacam-macam",
+    "english": "various"
+  },
+  {
+    "japan": "かんたんな",
+    "writing": "kantanna",
+    "indonesia": "mudah",
+    "english": "easy"
+  },
+  {
+    "japan": "おおい\n/add すくない",
+    "writing": "ooi\n/add sukunai",
+    "indonesia": "oh baiklah\n/tambahkan tidak terlalu",
+    "english": "oh well\n"
+  },
+  {
+    "japan": "あじな",
+    "writing": "ajina",
+    "indonesia": "ajina",
+    "english": "ajina"
+  },
+  {
+    "japan": "だいじょうふ",
+    "writing": "daijoufu",
+    "indonesia": "kerja bagus",
+    "english": "good job"
+  },
+  {
+    "japan": "こわい",
+    "writing": "kowai",
+    "indonesia": "menakutkan",
+    "english": "scary"
+  },
+  {
+    "japan": "むり",
+    "writing": "muri",
+    "indonesia": "mustahil",
+    "english": "impossible"
+  },
+  {
+    "japan": "むだな",
+    "writing": "mudana",
+    "indonesia": "percuma saja",
+    "english": "it's useless"
+  },
+  {
+    "japan": "はずかしい",
+    "writing": "hazukashii",
+    "indonesia": "itu memalukan",
+    "english": "it's embarrassing"
+  },
+  {
+    "japan": "きぶんがいい",
+    "writing": "kibungaii",
+    "indonesia": "bagus",
+    "english": "good"
+  },
+  {
+    "japan": "きぶんがわるい",
+    "writing": "kibungawarui",
+    "indonesia": "itu buruk",
+    "english": "it's bad"
+  },
+  {
+    "japan": "ゆるい",
+    "writing": "yurui",
+    "indonesia": "itu santai",
+    "english": "it's relaxed"
+  },
+  {
+    "japan": "きつい",
+    "writing": "kitsui",
+    "indonesia": "ketat",
+    "english": "tight"
+  },
+  {
+    "japan": "とくべつな",
+    "writing": "tokubetsuna",
+    "indonesia": "sangat bagus",
+    "english": "very good"
+  },
+  {
+    "japan": "しあわせな",
+    "writing": "shiawasena",
+    "indonesia": "saya senang",
+    "english": "i'm happy"
+  },
+  {
+    "japan": "に",
+    "writing": "ni",
+    "indonesia": "di dalam",
+    "english": "in"
+  }
+]

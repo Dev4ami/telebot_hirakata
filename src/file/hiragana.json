@@ -1,0 +1,418 @@
+[
+  {
+    "moji": "あ",
+    "writing": "a"
+  },
+  {
+    "moji": "い",
+    "writing": "i"
+  },
+  {
+    "moji": "う",
+    "writing": "u"
+  },
+  {
+    "moji": "え",
+    "writing": "e"
+  },
+  {
+    "moji": "お",
+    "writing": "o"
+  },
+  {
+    "moji": "か",
+    "writing": "ka"
+  },
+  {
+    "moji": "き",
+    "writing": "ki"
+  },
+  {
+    "moji": "く",
+    "writing": "ku"
+  },
+  {
+    "moji": "け",
+    "writing": "ke"
+  },
+  {
+    "moji": "こ",
+    "writing": "ko"
+  },
+  {
+    "moji": "さ",
+    "writing": "sa"
+  },
+  {
+    "moji": "し",
+    "writing": "shi"
+  },
+  {
+    "moji": "す",
+    "writing": "su"
+  },
+  {
+    "moji": "せ",
+    "writing": "se"
+  },
+  {
+    "moji": "そ",
+    "writing": "so"
+  },
+  {
+    "moji": "た",
+    "writing": "ta"
+  },
+  {
+    "moji": "ち",
+    "writing": "chi"
+  },
+  {
+    "moji": "つ",
+    "writing": "tsu"
+  },
+  {
+    "moji": "て",
+    "writing": "te"
+  },
+  {
+    "moji": "と",
+    "writing": "to"
+  },
+  {
+    "moji": "な",
+    "writing": "na"
+  },
+  {
+    "moji": "に",
+    "writing": "ni"
+  },
+  {
+    "moji": "ぬ",
+    "writing": "nu"
+  },
+  {
+    "moji": "ね",
+    "writing": "ne"
+  },
+  {
+    "moji": "の",
+    "writing": "no"
+  },
+  {
+    "moji": "は",
+    "writing": "ha"
+  },
+  {
+    "moji": "ひ",
+    "writing": "hi"
+  },
+  {
+    "moji": "ふ",
+    "writing": "fu"
+  },
+  {
+    "moji": "へ",
+    "writing": "he"
+  },
+  {
+    "moji": "ほ",
+    "writing": "ho"
+  },
+  {
+    "moji": "ま",
+    "writing": "ma"
+  },
+  {
+    "moji": "み",
+    "writing": "mi"
+  },
+  {
+    "moji": "む",
+    "writing": "mu"
+  },
+  {
+    "moji": "め",
+    "writing": "me"
+  },
+  {
+    "moji": "も",
+    "writing": "mo"
+  },
+  {
+    "moji": "や",
+    "writing": "ya"
+  },
+  {
+    "moji": "ゆ",
+    "writing": "yu"
+  },
+  {
+    "moji": "よ",
+    "writing": "yo"
+  },
+  {
+    "moji": "ら",
+    "writing": "ra"
+  },
+  {
+    "moji": "り",
+    "writing": "ri"
+  },
+  {
+    "moji": "る",
+    "writing": "ru"
+  },
+  {
+    "moji": "れ",
+    "writing": "re"
+  },
+  {
+    "moji": "ろ",
+    "writing": "ro"
+  },
+  {
+    "moji": "わ",
+    "writing": "wa"
+  },
+  {
+    "moji": "を",
+    "writing": "wo"
+  },
+  {
+    "moji": "ん",
+    "writing": "n"
+  },
+  {
+    "moji": "が",
+    "writing": "ga"
+  },
+  {
+    "moji": "ぎ",
+    "writing": "gi"
+  },
+  {
+    "moji": "ぐ",
+    "writing": "gu"
+  },
+  {
+    "moji": "げ",
+    "writing": "ge"
+  },
+  {
+    "moji": "ご",
+    "writing": "go"
+  },
+  {
+    "moji": "ざ",
+    "writing": "za"
+  },
+  {
+    "moji": "じ",
+    "writing": "ji"
+  },
+  {
+    "moji": "ず",
+    "writing": "zu"
+  },
+  {
+    "moji": "ぜ",
+    "writing": "ze"
+  },
+  {
+    "moji": "ぞ",
+    "writing": "zo"
+  },
+  {
+    "moji": "だ",
+    "writing": "da"
+  },
+  {
+    "moji": "ぢ",
+    "writing": "ji"
+  },
+  {
+    "moji": "づ",
+    "writing": "zu"
+  },
+  {
+    "moji": "で",
+    "writing": "de"
+  },
+  {
+    "moji": "ど",
+    "writing": "do"
+  },
+  {
+    "moji": "ば",
+    "writing": "ba"
+  },
+  {
+    "moji": "び",
+    "writing": "bi"
+  },
+  {
+    "moji": "ぶ",
+    "writing": "bu"
+  },
+  {
+    "moji": "べ",
+    "writing": "be"
+  },
+  {
+    "moji": "ぼ",
+    "writing": "bo"
+  },
+  {
+    "moji": "ぱ",
+    "writing": "pa"
+  },
+  {
+    "moji": "ぴ",
+    "writing": "pi"
+  },
+  {
+    "moji": "ぷ",
+    "writing": "pu"
+  },
+  {
+    "moji": "ぺ",
+    "writing": "pe"
+  },
+  {
+    "moji": "ぽ",
+    "writing": "po"
+  },
+  {
+    "moji": "きゃ",
+    "writing": "kya"
+  },
+  {
+    "moji": "きゅ",
+    "writing": "kyu"
+  },
+  {
+    "moji": "きょ",
+    "writing": "kyo"
+  },
+  {
+    "moji": "しゃ",
+    "writing": "sha"
+  },
+  {
+    "moji": "しゅ",
+    "writing": "shu"
+  },
+  {
+    "moji": "しょ",
+    "writing": "sho"
+  },
+  {
+    "moji": "ちゃ",
+    "writing": "cha"
+  },
+  {
+    "moji": "ちゅ",
+    "writing": "chu"
+  },
+  {
+    "moji": "ちょ",
+    "writing": "cho"
+  },
+  {
+    "moji": "にゃ",
+    "writing": "nya"
+  },
+  {
+    "moji": "にゅ",
+    "writing": "nyu"
+  },
+  {
+    "moji": "にょ",
+    "writing": "nyo"
+  },
+  {
+    "moji": "ひゃ",
+    "writing": "hya"
+  },
+  {
+    "moji": "ひゅ",
+    "writing": "hyu"
+  },
+  {
+    "moji": "ひょ",
+    "writing": "hyo"
+  },
+  {
+    "moji": "みゃ",
+    "writing": "mya"
+  },
+  {
+    "moji": "みゅ",
+    "writing": "myu"
+  },
+  {
+    "moji": "みょ",
+    "writing": "myo"
+  },
+  {
+    "moji": "りゃ",
+    "writing": "rya"
+  },
+  {
+    "moji": "りゅ",
+    "writing": "ryu"
+  },
+  {
+    "moji": "りょ",
+    "writing": "ryo"
+  },
+  {
+    "moji": "ぎゃ",
+    "writing": "gya"
+  },
+  {
+    "moji": "ぎゅ",
+    "writing": "gyu"
+  },
+  {
+    "moji": "ぎょ",
+    "writing": "gyo"
+  },
+  {
+    "moji": "じゃ",
+    "writing": "ja"
+  },
+  {
+    "moji": "じゅ",
+    "writing": "ju"
+  },
+  {
+    "moji": "じょ",
+    "writing": "jo"
+  },
+  {
+    "moji": "びゃ",
+    "writing": "bya"
+  },
+  {
+    "moji": "びゅ",
+    "writing": "byu"
+  },
+  {
+    "moji": "びょ",
+    "writing": "byo"
+  },
+  {
+    "moji": "ぴゃ",
+    "writing": "pya"
+  },
+  {
+    "moji": "ぴゅ",
+    "writing": "pyu"
+  },
+  {
+    "moji": "ぴょ",
+    "writing": "pyo"
+  }
+]

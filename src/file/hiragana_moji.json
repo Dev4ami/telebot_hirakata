@@ -1,0 +1,585 @@
+{
+  "data": {
+    "category_id": [
+      {
+        "id": 1,
+        "list": "あ い う え お ",
+        "data": [
+          {
+            "moji": "あ",
+            "writing": "a"
+          },
+          {
+            "moji": "い",
+            "writing": "i"
+          },
+          {
+            "moji": "う",
+            "writing": "u"
+          },
+          {
+            "moji": "え",
+            "writing": "e"
+          },
+          {
+            "moji": "お",
+            "writing": "o"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "list": "か き く け こ ",
+        "data": [
+          {
+            "moji": "か",
+            "writing": "ka"
+          },
+          {
+            "moji": "き",
+            "writing": "ki"
+          },
+          {
+            "moji": "く",
+            "writing": "ku"
+          },
+          {
+            "moji": "け",
+            "writing": "ke"
+          },
+          {
+            "moji": "こ",
+            "writing": "ko"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "list": "さ し す せ そ ",
+        "data": [
+          {
+            "moji": "さ",
+            "writing": "sa"
+          },
+          {
+            "moji": "し",
+            "writing": "shi"
+          },
+          {
+            "moji": "す",
+            "writing": "su"
+          },
+          {
+            "moji": "せ",
+            "writing": "se"
+          },
+          {
+            "moji": "そ",
+            "writing": "so"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "list": "た ち つ て と ",
+        "data": [
+          {
+            "moji": "た",
+            "writing": "ta"
+          },
+          {
+            "moji": "ち",
+            "writing": "chi"
+          },
+          {
+            "moji": "つ",
+            "writing": "tsu"
+          },
+          {
+            "moji": "て",
+            "writing": "te"
+          },
+          {
+            "moji": "と",
+            "writing": "to"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "list": "な に ぬ ね の ",
+        "data": [
+          {
+            "moji": "な",
+            "writing": "na"
+          },
+          {
+            "moji": "に",
+            "writing": "ni"
+          },
+          {
+            "moji": "ぬ",
+            "writing": "nu"
+          },
+          {
+            "moji": "ね",
+            "writing": "ne"
+          },
+          {
+            "moji": "の",
+            "writing": "no"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "list": "は ひ ふ へ ほ ",
+        "data": [
+          {
+            "moji": "は",
+            "writing": "ha"
+          },
+          {
+            "moji": "ひ",
+            "writing": "hi"
+          },
+          {
+            "moji": "ふ",
+            "writing": "fu"
+          },
+          {
+            "moji": "へ",
+            "writing": "he"
+          },
+          {
+            "moji": "ほ",
+            "writing": "ho"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "list": "ま み む め も ",
+        "data": [
+          {
+            "moji": "ま",
+            "writing": "ma"
+          },
+          {
+            "moji": "み",
+            "writing": "mi"
+          },
+          {
+            "moji": "む",
+            "writing": "mu"
+          },
+          {
+            "moji": "め",
+            "writing": "me"
+          },
+          {
+            "moji": "も",
+            "writing": "mo"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "list": "や ゆ よ ",
+        "data": [
+          {
+            "moji": "や",
+            "writing": "ya"
+          },
+          {
+            "moji": "ゆ",
+            "writing": "yu"
+          },
+          {
+            "moji": "よ",
+            "writing": "yo"
+          }
+
+        ]
+      },
+      {
+        "id": 9,
+        "list": "ら り る れ ろ ",
+        "data": [
+          {
+            "moji": "ら",
+            "writing": "ra"
+          },
+          {
+            "moji": "り",
+            "writing": "ri"
+          },
+          {
+            "moji": "る",
+            "writing": "ru"
+          },
+          {
+            "moji": "れ",
+            "writing": "re"
+          },
+          {
+            "moji": "ろ",
+            "writing": "ro"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "list": "わ を ",
+        "data": [
+          {
+            "moji": "わ",
+            "writing": "wa"
+          },
+          {
+            "moji": "を",
+            "writing": "wo"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "list": "ん ",
+        "data": [
+          {
+            "moji": "ん",
+            "writing": "n"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "list": "が ぎ ぐ げ ご ",
+        "data": [
+          {
+            "moji": "が",
+            "writing": "ga"
+          },
+          {
+            "moji": "ぎ",
+            "writing": "gi"
+          },
+          {
+            "moji": "ぐ",
+            "writing": "gu"
+          },
+          {
+            "moji": "げ",
+            "writing": "ge"
+          },
+          {
+            "moji": "ご",
+            "writing": "go"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "list": "ざ じ ず ぜ ぞ ",
+        "data": [
+          {
+            "moji": "ざ",
+            "writing": "za"
+          },
+          {
+            "moji": "じ",
+            "writing": "ji"
+          },
+          {
+            "moji": "ず",
+            "writing": "zu"
+          },
+          {
+            "moji": "ぜ",
+            "writing": "ze"
+          },
+          {
+            "moji": "ぞ",
+            "writing": "zo"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "list": "だ ぢ づ で ど ",
+        "data": [
+          {
+            "moji": "だ",
+            "writing": "da"
+          },
+          {
+            "moji": "ぢ",
+            "writing": "ji"
+          },
+          {
+            "moji": "づ",
+            "writing": "zu"
+          },
+          {
+            "moji": "で",
+            "writing": "de"
+          },
+          {
+            "moji": "ど",
+            "writing": "do"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "list": "ば び ぶ べ ぼ ",
+        "data": [
+          {
+            "moji": "ば",
+            "writing": "ba"
+          },
+          {
+            "moji": "び",
+            "writing": "bi"
+          },
+          {
+            "moji": "ぶ",
+            "writing": "bu"
+          },
+          {
+            "moji": "べ",
+            "writing": "be"
+          },
+          {
+            "moji": "ぼ",
+            "writing": "bo"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "list": "ぱ ぴ ぷ ぺ ぽ ",
+        "data": [
+          {
+            "moji": "ぱ",
+            "writing": "pa"
+          },
+          {
+            "moji": "ぴ",
+            "writing": "pi"
+          },
+          {
+            "moji": "ぷ",
+            "writing": "pu"
+          },
+          {
+            "moji": "ぺ",
+            "writing": "pe"
+          },
+          {
+            "moji": "ぽ",
+            "writing": "po"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "list": "きゃ きゅ きょ ",
+        "data": [
+          {
+            "moji": "きゃ",
+            "writing": "kya"
+          },
+          {
+            "moji": "きゅ",
+            "writing": "kyu"
+          },
+          {
+            "moji": "きょ",
+            "writing": "kyo"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "list": "しゃ しゅ しょ ",
+        "data": [
+          {
+            "moji": "しゃ",
+            "writing": "sha"
+          },
+          {
+            "moji": "しゅ",
+            "writing": "shu"
+          },
+          {
+            "moji": "しょ",
+            "writing": "sho"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "list": "ちゃ ちゅ ちょ ",
+        "data": [
+          {
+            "moji": "ちゃ",
+            "writing": "cha"
+          },
+          {
+            "moji": "ちゅ",
+            "writing": "chu"
+          },
+          {
+            "moji": "ちょ",
+            "writing": "cho"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "list": "にゃ にゅ にょ ",
+        "data": [
+          {
+            "moji": "にゃ",
+            "writing": "nya"
+          },
+          {
+            "moji": "にゅ",
+            "writing": "nyu"
+          },
+          {
+            "moji": "にょ",
+            "writing": "nyo"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "list": "ひゃ ひゅ ひょ ",
+        "data": [
+          {
+            "moji": "ひゃ",
+            "writing": "hya"
+          },
+          {
+            "moji": "ひゅ",
+            "writing": "hyu"
+          },
+          {
+            "moji": "ひょ",
+            "writing": "hyo"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "list": "みゃ みゅ みょ ",
+        "data": [
+          {
+            "moji": "みゃ",
+            "writing": "mya"
+          },
+          {
+            "moji": "みゅ",
+            "writing": "myu"
+          },
+          {
+            "moji": "みょ",
+            "writing": "myo"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "list": "りゃ りゅ りょ ",
+        "data": [
+          {
+            "moji": "りゃ",
+            "writing": "rya"
+          },
+          {
+            "moji": "りゅ",
+            "writing": "ryu"
+          },
+          {
+            "moji": "りょ",
+            "writing": "ryo"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "list": "ぎゃ ぎゅ ぎょ ",
+        "data": [
+          {
+            "moji": "ぎゃ",
+            "writing": "gya"
+          },
+          {
+            "moji": "ぎゅ",
+            "writing": "gyu"
+          },
+          {
+            "moji": "ぎょ",
+            "writing": "gyo"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "list": "じゃ じゅ じょ ",
+        "data": [
+          {
+            "moji": "じゃ",
+            "writing": "ja"
+          },
+          {
+            "moji": "じゅ",
+            "writing": "ju"
+          },
+          {
+            "moji": "じょ",
+            "writing": "jo"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "list": "びゃ びゅ びょ ",
+        "data": [
+          {
+            "moji": "びゃ",
+            "writing": "bya"
+          },
+          {
+            "moji": "びゅ",
+            "writing": "byu"
+          },
+          {
+            "moji": "びょ",
+            "writing": "byo"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "list": "ぴゃ ぴゅ ぴょ ",
+        "data": [
+          {
+            "moji": "ぴゃ",
+            "writing": "pya"
+          },
+          {
+            "moji": "ぴゅ",
+            "writing": "pyu"
+          },
+          {
+            "moji": "ぴょ",
+            "writing": "pyo"
+          }
+        ]
+      }
+    ]
+  }
+}

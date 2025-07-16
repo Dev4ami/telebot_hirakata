@@ -1,0 +1,646 @@
+[
+    {
+    "kanji": "月曜日",
+    "romaji": "getsuyoubi",
+    "furigana": "げつようび",
+    "indonesia": "senin",
+    "english": "monday"    
+  },
+  {
+    "kanji": "火曜日",
+    "romaji": "kayoubi",
+    "furigana": "かようび",
+    "indonesia": "selasa",
+    "english": "tuesday"    
+  },                  
+  {
+    "kanji": "水曜日",
+    "romaji": "suiyoubi",
+    "furigana": "すいようび",
+    "indonesia": "rabu",
+    "english": "wednesday"    
+  },
+  {
+    "kanji": "木曜日",
+    "romaji": "mokoyoubi",
+    "furigana": "もこようび",
+    "indonesia": "kamis",
+    "english": "thursday"    
+  },
+  {
+    "kanji": "金尿日",
+    "romaji": "kinyoubi",
+    "furigana": "きんようび",
+    "indonesia": "jumat",
+    "english": "friday"    
+  },
+  {
+    "kanji": "土曜日",
+    "romaji": "doyoubi",
+    "furigana": "どようび",
+    "indonesia": "sabtu",
+    "english": "saturday"    
+  },                  
+  {
+    "kanji": "日曜日",
+    "romaji": "nichiyoubi",
+    "furigana": "にちようび",
+    "indonesia": "minggu",
+    "english": "sunday"    
+  },
+  {
+    "kanji": "一月",
+    "romaji": "ichigatsu",
+    "furigana": "いちがつ",
+    "indonesia": "januari",
+    "english": "january"    
+  },
+  {
+    "kanji": "二月",
+    "romaji": "nigatsu",
+    "furigana": "にがつ",
+    "indonesia": "februari",
+    "english": "february"    
+  },
+  {
+    "kanji": "三月",
+    "romaji": "sangatsu",
+    "furigana": "さんがつ",
+    "indonesia": "maret",
+    "english": "march"    
+  },
+{
+    "kanji": "四月",
+    "romaji": "shigatsu",
+    "furigana": "しがつ",
+    "indonesia": "april",
+    "english": "april"    
+  },
+  {
+    "kanji": "五月",
+    "romaji": "gogatsu",
+    "furigana": "ごがつ",
+    "indonesia": "mei",
+    "english": "may"    
+  },                  
+  {
+    "kanji": "六月",
+    "romaji": "rokugatsu",
+    "furigana": "ろくがつ",
+    "indonesia": "juni",
+    "english": "june"    
+  },
+  {
+    "kanji": "七月",
+    "romaji": "shichigatsu",
+    "furigana": "しちがつ",
+    "indonesia": "juli",
+    "english": "july"    
+  },  
+  {
+    "kanji": "八月",
+    "romaji": "hachigatsu",
+    "furigana": "はちがつ",
+    "indonesia": "agustus",
+    "english": "august"    
+  },  
+  {
+    "kanji": "九月",
+    "romaji": "kugatsu",
+    "furigana": "くがつ",
+    "indonesia": "september",
+    "english": "september"    
+  },  
+  {
+    "kanji": "十月",
+    "romaji": "juugatsu",
+    "furigana": "じゅうがつ",
+    "indonesia": "oktober",
+    "english": "october"    
+  },  
+  {
+    "kanji": "十一月",
+    "romaji": "juuichigatsu",
+    "furigana": "じゅういちがつ",
+    "indonesia": "november",
+    "english": "november"    
+  },  
+  {
+    "kanji": "十二月",
+    "romaji": "juunigatsu",
+    "furigana": "じゅうにがつ",
+    "indonesia": "desember",
+    "english": "december"    
+  },  
+  {
+    "kanji": "一日",
+    "romaji": "tsuitachi",
+    "furigana": "ついたち",
+    "indonesia": "tanggal 1",
+    "english": "1st"    
+  },  
+  {
+    "kanji": "二日",
+    "romaji": "futsuka",
+    "furigana": "ふつか",
+    "indonesia": "tanggal 2",
+    "english": "2nd"    
+  },  
+  {
+    "kanji": "三日",
+    "romaji": "mikka",
+    "furigana": "みっか",
+    "indonesia": "tanggal 3",
+    "english": "3rd"    
+  },  
+  {
+    "kanji": "四日",
+    "romaji": "yokka",
+    "furigana": "よっか",
+    "indonesia": "tanggal 4",
+    "english": "4th"    
+  },  
+  {
+    "kanji": "五日",
+    "romaji": "itsuka",
+    "furigana": "いつか",
+    "indonesia": "tanggal 5",
+    "english": "5th"    
+  },  
+  {
+    "kanji": "六日",
+    "romaji": "muika",
+    "furigana": "むいか",
+    "indonesia": "tanggal 6",
+    "english": "6th"    
+  },  
+  {
+    "kanji": "七日",
+    "romaji": "nanoka",
+    "furigana": "なのか",
+    "indonesia": "tanggal 7",
+    "english": "7th"    
+  },  
+  {
+    "kanji": "八日",
+    "romaji": "youka",
+    "furigana": "ようか",
+    "indonesia": "tanggal 8",
+    "english": "8th"    
+  },  
+  {
+    "kanji": "九日",
+    "romaji": "kokonoka",
+    "furigana": "ここのか",
+    "indonesia": "tanggal 9",
+    "english": "9th"    
+  },  
+  {
+    "kanji": "十日",
+    "romaji": "tooka",
+    "furigana": "とおか",
+    "indonesia": "tanggal 10",
+    "english": "10th"    
+  },  
+  {
+    "kanji": "十一日",
+    "romaji": "juuichinichi",
+    "furigana": "じゅういちにち",
+    "indonesia": "tanggal 11",
+    "english": "11th"    
+  },  
+  {
+    "kanji": "十二日",
+    "romaji": "juuninichi",
+    "furigana": "じゅうににち",
+    "indonesia": "tanggal 12",
+    "english": "12th"    
+  },  
+  {
+    "kanji": "十三日",
+    "romaji": "juusannichi",
+    "furigana": "じゅうさんにち",
+    "indonesia": "tanggal 13",
+    "english": "13th"    
+  },  
+  {
+    "kanji": "十四日",
+    "romaji": "juuyokka",
+    "furigana": "じゅうよっか",
+    "indonesia": "tanggal 14",
+    "english": "14th"    
+  },  
+  {
+    "kanji": "十五日",
+    "romaji": "juugonichi",
+    "furigana": "じゅうごにち",
+    "indonesia": "tanggal 15",
+    "english": "15th"    
+  },  
+  {
+    "kanji": "十六日",
+    "romaji": "juurokunichi",
+    "furigana": "じゅうろくにち",
+    "indonesia": "tanggal 16",
+    "english": "16th"    
+  },  
+  {
+    "kanji": "十七日",
+    "romaji": "juushichinichi",
+    "furigana": "じゅうしちにち",
+    "indonesia": "tanggal 17",
+    "english": "17th"    
+  },  
+  {
+    "kanji": "十八日",
+    "romaji": "juuhachinichi",
+    "furigana": "じゅうはちにち",
+    "indonesia": "tanggal 18",
+    "english": "18th"    
+  },  
+  {
+    "kanji": "十九日",
+    "romaji": "juukunichi",
+    "furigana": "じゅうくにち",
+    "indonesia": "tanggal 19",
+    "english": "19th"    
+  },  
+  {
+    "kanji": "二十日",
+    "romaji": "hatsuka",
+    "furigana": "はつか",
+    "indonesia": "tanggal 20",
+    "english": "20th"    
+  },  
+  {
+    "kanji": "二十一日",
+    "romaji": "nijuuichinichi",
+    "furigana": "にじゅういちにち",
+    "indonesia": "tanggal 21",
+    "english": "21th"    
+  },  
+  {
+    "kanji": "二十二日",
+    "romaji": "nijuuninichi",
+    "furigana": "にじゅうににち",
+    "indonesia": "tanggal 22",
+    "english": "22th"    
+  },  
+  {
+    "kanji": "二十三日",
+    "romaji": "nijuusannichi",
+    "furigana": "にじゅうさんにち",
+    "indonesia": "tanggal 23",
+    "english": "23th"    
+  },  
+  {
+    "kanji": "二十四日",
+    "romaji": "nijuuyokka",
+    "furigana": "にじゅうようか",
+    "indonesia": "tanggal 24",
+    "english": "24th"    
+  },  
+  {
+    "kanji": "二十五日",
+    "romaji": "nijuugonichi",
+    "furigana": "にじゅうごにち",
+    "indonesia": "tanggal 25",
+    "english": "25th"    
+  },  
+  {
+    "kanji": "二十六日",
+    "romaji": "nijuurokunichi",
+    "furigana": "にじゅうろくにち",
+    "indonesia": "tanggal 26",
+    "english": "26th"    
+  },  
+  {
+    "kanji": "二十七日",
+    "romaji": "nijuushichinichi",
+    "furigana": "にじゅうしちにち",
+    "indonesia": "tanggal 27",
+    "english": "27th"    
+  },  
+  {
+    "kanji": "二十八日",
+    "romaji": "nijuuhachinichi",
+    "furigana": "にじゅうはちにち",
+    "indonesia": "tanggal 28",
+    "english": "28th"    
+  },  
+  {
+    "kanji": "二十九日",
+    "romaji": "nijuukunichi",
+    "furigana": "にじゅうくにち",
+    "indonesia": "tanggal 29",
+    "english": "29th"    
+  },  
+  {
+    "kanji": "三十日",
+    "romaji": "sanjuunichi",
+    "furigana": "さんじゅうにち",
+    "indonesia": "tanggal 30",
+    "english": "30th"    
+  },  
+  {
+    "kanji": "三十一日",
+    "romaji": "sanjuuichinichi",
+    "furigana": "さんじゅういちにち",
+    "indonesia": "tanggal 31",
+    "english": "31th"    
+  },  
+  {
+    "kanji": "今日",
+    "romaji": "kyou",
+    "furigana": "きょう",
+    "indonesia": "hari ini",
+    "english": "today"    
+  },  
+  {
+    "kanji": "明日",
+    "romaji": "ashita",
+    "furigana": "あした",
+    "indonesia": "besok",
+    "english": "tomorrow"    
+  },  
+  {
+    "kanji": "昨日",
+    "romaji": "kinou",
+    "furigana": "きのう",
+    "indonesia": "kemarin",
+    "english": "yesterday"    
+  },  
+  {
+    "kanji": "一昨日",
+    "romaji": "ototoi",
+    "furigana": "おととい",
+    "indonesia": "dua hari yang lalu",
+    "english": "day before yesterday"    
+  },  
+  {
+    "kanji": "明後日",
+    "romaji": "asatte",
+    "furigana": "あさって",
+    "indonesia": "dua hari lagi",
+    "english": "day after tomorrow"    
+  },  
+  {
+    "kanji": "今朝",
+    "romaji": "kesa",
+    "furigana": "けさ",
+    "indonesia": "pagi ini",
+    "english": "this morning"    
+  },  
+  {
+    "kanji": "今晩",
+    "romaji": "konban",
+    "furigana": "こんばん",
+    "indonesia": "malam ini",
+    "english": "this evening"    
+  },  
+  {
+    "kanji": "今夜",
+    "romaji": "konya",
+    "furigana": "こんや",
+    "indonesia": "malam ini",
+    "english": "tonight"    
+  },  
+  {
+    "kanji": "朝",
+    "romaji": "asa",
+    "furigana": "あさ",
+    "indonesia": "pagi",
+    "english": "morning"    
+  },  
+  {
+    "kanji": "昼",
+    "romaji": "hiru",
+    "furigana": "ひる",
+    "indonesia": "siang",
+    "english": "daytime"    
+  },  
+  {
+    "kanji": "夕方",
+    "romaji": "yuugata",
+    "furigana": "ゆうがた",
+    "indonesia": "sore",
+    "english": "evening"    
+  },  
+  {
+    "kanji": "夜",
+    "romaji": "yoru",
+    "furigana": "よる",
+    "indonesia": "malam",
+    "english": "night"    
+  },  
+  {
+    "kanji": "深夜",
+    "romaji": "shinya",
+    "furigana": "しんや",
+    "indonesia": "tengah malam",
+    "english": "midnight"    
+  },  
+  {
+    "kanji": "一時",
+    "romaji": "ichiji",
+    "furigana": "いちじ",
+    "indonesia": "jam 1",
+    "english": "1 o'clock"    
+  },  
+  {
+    "kanji": "二時",
+    "romaji": "niji",
+    "furigana": "にじ",
+    "indonesia": "jam 2",
+    "english": "2 o'clock"    
+  },  
+  {
+    "kanji": "三時",
+    "romaji": "sanji",
+    "furigana": "さんじ",
+    "indonesia": "jam 3",
+    "english": "3 o'clock"    
+  },  
+  {
+    "kanji": "四時",
+    "romaji": "yoji",
+    "furigana": "よじ",
+    "indonesia": "jam 4",
+    "english": "4 o'clock"    
+  },  
+  {
+    "kanji": "五時",
+    "romaji": "goji",
+    "furigana": "ごじ",
+    "indonesia": "jam 5",
+    "english": "5 o'clock"    
+  },  
+  {
+    "kanji": "六時",
+    "romaji": "rokuji",
+    "furigana": "ろくじ",
+    "indonesia": "jam 6",
+    "english": "6 o'clock"    
+  },  
+  {
+    "kanji": "七時",
+    "romaji": "shichiji",
+    "furigana": "しちじ",
+    "indonesia": "jam 7",
+    "english": "7 o'clock"    
+  },  
+  {
+    "kanji": "八時",
+    "romaji": "hachiji",
+    "furigana": "はちじ",
+    "indonesia": "jam 8",
+    "english": "8 o'clock"    
+  },  
+  {
+    "kanji": "九時",
+    "romaji": "kuji",
+    "furigana": "くじ",
+    "indonesia": "jam 9",
+    "english": "9 o'clock"    
+  },  
+  {
+    "kanji": "十時",
+    "romaji": "juuji",
+    "furigana": "じゅうじ",
+    "indonesia": "jam 10",
+    "english": "10 o'clock"    
+  },  
+  {
+    "kanji": "十一時",
+    "romaji": "juuichiji",
+    "furigana": "じゅういちじ",
+    "indonesia": "jam 11",
+    "english": "11 o'clock"    
+  },  
+  {
+    "kanji": "十二時",
+    "romaji": "juuniji",
+    "furigana": "じゅうにじ",
+    "indonesia": "jam 12",
+    "english": "12 o'clock"    
+  },  
+  {
+    "kanji": "一分",
+    "romaji": "ippun",
+    "furigana": "いっぷん",
+    "indonesia": "1 menit",
+    "english": "1 minute"    
+  },  
+  {
+    "kanji": "二分",
+    "romaji": "nifun",
+    "furigana": "にふん",
+    "indonesia": "2 menit",
+    "english": "2 minute"    
+  },  
+  {
+    "kanji": "三分",
+    "romaji": "sanpun",
+    "furigana": "さんぷん",
+    "indonesia": "3 menit",
+    "english": "3 minute"    
+  },  
+  {
+    "kanji": "四分",
+    "romaji": "yonpun",
+    "furigana": "よんぷん",
+    "indonesia": "4 menit",
+    "english": "4 minute"    
+  },  
+  {
+    "kanji": "五分",
+    "romaji": "gofun",
+    "furigana": "ごふん",
+    "indonesia": "5 menit",
+    "english": "5 minute"    
+  },  
+  {
+    "kanji": "六分",
+    "romaji": "roppun",
+    "furigana": "ろっぷん",
+    "indonesia": "6 menit",
+    "english": "6 minute"    
+  },  
+  {
+    "kanji": "七分",
+    "romaji": "nanafun",
+    "furigana": "ななふん",
+    "indonesia": "7 menit",
+    "english": "7 minute"    
+  },  
+  {
+    "kanji": "八分",
+    "romaji": "happun",
+    "furigana": "はっぷん",
+    "indonesia": "8 menit",
+    "english": "8 minute"    
+  },  
+  {
+    "kanji": "九分",
+    "romaji": "kyuufun",
+    "furigana": "きゅうふん",
+    "indonesia": "9 menit",
+    "english": "9 minute"    
+  },  
+  {
+    "kanji": "十分",
+    "romaji": "juppun",
+    "furigana": "じゅっぷん",
+    "indonesia": "10 menit",
+    "english": "10 minute"    
+  },  
+  {
+    "kanji": "十五分",
+    "romaji": "juugofun",
+    "furigana": "じゅうごふん",
+    "indonesia": "15 menit",
+    "english": "15 minute"    
+  },  
+  {
+    "kanji": "三十分",
+    "romaji": "sanjuppun",
+    "furigana": "さんじゅっぷん",
+    "indonesia": "30 menit",
+    "english": "30 minute"    
+  },  
+  {
+    "kanji": "四十五分",
+    "romaji": "yonjuugofun",
+    "furigana": "よんじゅうごふん",
+    "indonesia": "45 menit",
+    "english": "45 minute"    
+  },  
+  {
+    "kanji": "五十分",
+    "romaji": "gojuppun",
+    "furigana": "ごじゅっぷん",
+    "indonesia": "50 menit",
+    "english": "50 minute"    
+  },  
+  {
+    "kanji": "五十五分",
+    "romaji": "gojuugofun",
+    "furigana": "ごじゅうごふん",
+    "indonesia": "55 menit",
+    "english": "55 minute"    
+  },  
+  {
+    "kanji": "午前",
+    "romaji": "gozen",
+    "furigana": "ごぜん",
+    "indonesia": "am",
+    "english": "am"    
+  },  
+  {
+    "kanji": "午後",
+    "romaji": "gogo",
+    "furigana": "ごご",
+    "indonesia": "pm",
+    "english": "pm"    
+  }
+]

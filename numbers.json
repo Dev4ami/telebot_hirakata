@@ -1,0 +1,660 @@
+[
+  {
+    "kanji": "一",
+    "romaji": "ichi",
+    "furigana": "いち",
+    "indonesia": "satu",
+    "english": "one"    
+  },
+  {
+    "kanji": "二",
+    "romaji": "ni",
+    "furigana": "に",
+    "indonesia": "dua",
+    "english": "two"    
+  },
+  {
+    "kanji": "三",
+    "romaji": "san",
+    "furigana": "さん",
+    "indonesia": "tiga",
+    "english": "three"    
+  },
+  {
+    "kanji": "四",
+    "romaji": "yon",
+    "furigana": "よん",
+    "indonesia": "empat",
+    "english": "four"    
+  },
+  {
+    "kanji": "五",
+    "romaji": "go",
+    "furigana": "ご",
+    "indonesia": "lima",
+    "english": "five"    
+  },
+  {
+    "kanji": "六",
+    "romaji": "roku",
+    "furigana": "ろく",
+    "indonesia": "enam",
+    "english": "six"    
+  },
+  {
+    "kanji": "七",
+    "romaji": "nana",
+    "furigana": "なな",
+    "indonesia": "tujuh",
+    "english": "seven"    
+  },
+  {
+    "kanji": "八",
+    "romaji": "hachi",
+    "furigana": "はち",
+    "indonesia": "delapan",
+    "english": "eight"    
+  },
+  {
+    "kanji": "九",
+    "romaji": "kyuu",
+    "furigana": "きゅう",
+    "indonesia": "sembilan",
+    "english": "nine"    
+  },
+  {
+    "kanji": "十",
+    "romaji": "juu",
+    "furigana": "じゅう",
+    "indonesia": "sepuluh",
+    "english": "ten"    
+  },
+  {
+    "kanji": "十一",
+    "romaji": "juuichi",
+    "furigana": "じゅういち",
+    "indonesia": "sebelas",
+    "english": "eleven"    
+  },
+  {
+    "kanji": "十二",
+    "romaji": "juuni",
+    "furigana": "じゅうに",
+    "indonesia": "dua belas",
+    "english": "twelve"    
+  },
+  {
+    "kanji": "十三",
+    "romaji": "juusan",
+    "furigana": "じゅうさん",
+    "indonesia": "tiga belas",
+    "english": "thirteen"    
+  },
+  {
+    "kanji": "十四",
+    "romaji": "juuyon",
+    "furigana": "じゅうよん",
+    "indonesia": "empat belas",
+    "english": "fourteen"    
+  },
+  {
+    "kanji": "十五",
+    "romaji": "juugo",
+    "furigana": "じゅうご",
+    "indonesia": "lima belas",
+    "english": "fifteen"    
+  },
+  {
+    "kanji": "十六",
+    "romaji": "juuroku",
+    "furigana": "じゅうろく",
+    "indonesia": "enam belas",
+    "english": "sixteen"    
+  },
+  {
+    "kanji": "十七",
+    "romaji": "juunana",
+    "furigana": "じゅうなな",
+    "indonesia": "tujuh belas",
+    "english": "seventeen"    
+  },
+  {
+    "kanji": "十八",
+    "romaji": "juuhachi",
+    "furigana": "じゅうはち",
+    "indonesia": "delapan belas",
+    "english": "eighteen"    
+  },
+  {
+    "kanji": "十九",
+    "romaji": "juukyuu",
+    "furigana": "じゅうきゅう",
+    "indonesia": "sembilan belas",
+    "english": "nineteen"    
+  },
+  {
+    "kanji": "二十",
+    "romaji": "nijuu",
+    "furigana": "にじゅう",
+    "indonesia": "dua puluh",
+    "english": "twenty"    
+  },
+  {
+    "kanji": "二十一",
+    "romaji": "nijuuichi",
+    "furigana": "にじゅういち",
+    "indonesia": "dua puluh satu",
+    "english": "twenty one"    
+  },
+  {
+    "kanji": "二十二",
+    "romaji": "nijuuni",
+    "furigana": "にじゅうに",
+    "indonesia": "dua puluh dua",
+    "english": "twenty two"    
+  },
+  {
+    "kanji": "二十三",
+    "romaji": "nijuusan",
+    "furigana": "にじゅうさん",
+    "indonesia": "dua puluh tiga",
+    "english": "twenty three"    
+  },
+  {
+    "kanji": "二十四",
+    "romaji": "nijuuyon",
+    "furigana": "にじゅうよん",
+    "indonesia": "dua puluh empat",
+    "english": "twenty four"    
+  },
+  {
+    "kanji": "二十五",
+    "romaji": "nijuugo",
+    "furigana": "にじゅうご",
+    "indonesia": "dua puluh lima",
+    "english": "twenty five"    
+  },
+  {
+    "kanji": "二十六",
+    "romaji": "nijuuroku",
+    "furigana": "にじゅうろく",
+    "indonesia": "dua puluh enam",
+    "english": "twenty six"    
+  },
+  {
+    "kanji": "二十七",
+    "romaji": "nijuunana",
+    "furigana": "にじゅうなな",
+    "indonesia": "dua puluh tujuh",
+    "english": "twenty seven"    
+  },
+  {
+    "kanji": "二十八",
+    "romaji": "nijuuhachi",
+    "furigana": "にじゅうはち",
+    "indonesia": "dua puluh delapan",
+    "english": "twenty eight"    
+  },
+  {
+    "kanji": "二十九",
+    "romaji": "nijuukyuu",
+    "furigana": "にじゅうきゅう",
+    "indonesia": "dua puluh sembilan",
+    "english": "twenty nine"    
+  },
+  {
+    "kanji": "三十",
+    "romaji": "sanjuu",
+    "furigana": "さんじゅう",
+    "indonesia": "tiga puluh",
+    "english": "thirty"    
+  },
+  {
+    "kanji": "百",
+    "romaji": "hyaku",
+    "furigana": "ひゃく",
+    "indonesia": "seratus",
+    "english": "one hundred"    
+  },
+  {
+    "kanji": "二百",
+    "romaji": "nihyaku",
+    "furigana": "にひゃく",
+    "indonesia": "dua ratus",
+    "english": "two hundred"    
+  },
+  {
+    "kanji": "三百",
+    "romaji": "sanbyaku",
+    "furigana": "さんびゃく",
+    "indonesia": "tiga ratus",
+    "english": "three hundred"    
+  },
+  {
+    "kanji": "四百",
+    "romaji": "yonhyaku",
+    "furigana": "よんひゃく",
+    "indonesia": "empat ratus",
+    "english": "four hundred"    
+  },
+  {
+    "kanji": "五百",
+    "romaji": "gohyaku",
+    "furigana": "ごひゃく",
+    "indonesia": "lima ratus",
+    "english": "five hundred"    
+  },
+  {
+    "kanji": "六百",
+    "romaji": "roppyaku",
+    "furigana": "ろっぴゃく",
+    "indonesia": "enam ratus",
+    "english": "six hundred"    
+  },    
+  {
+    "kanji": "七百",
+    "romaji": "nanahyaku",
+    "furigana": "ななひゃく",
+    "indonesia": "tujuh ratus",
+    "english": "seven hundred"    
+  },
+  {
+    "kanji": "八百",
+    "romaji": "happyaku",
+    "furigana": "はっぴゃく",
+    "indonesia": "delapan ratus",
+    "english": "eight hundred"    
+  },
+  {
+    "kanji": "九百",
+    "romaji": "kyuuhyaku",
+    "furigana": "きゅうひゃく",
+    "indonesia": "sembilan ratus",
+    "english": "nine hundred"    
+  },
+  {
+    "kanji": "千",
+    "romaji": "sen",
+    "furigana": "せん",
+    "indonesia": "seribu",
+    "english": "one thousand"    
+  },
+  {
+    "kanji": "一千",
+    "romaji": "issen",
+    "furigana": "いっせん",
+    "indonesia": "seribu",
+    "english": "one thousand"    
+  },  
+  {
+    "kanji": "二千",
+    "romaji": "nisen",
+    "furigana": "にせん",
+    "indonesia": "dua ribu",
+    "english": "two thousand"    
+  },
+  {
+    "kanji": "三千",
+    "romaji": "sanzen",
+    "furigana": "さんぜん",
+    "indonesia": "tiga ribu",
+    "english": "three thousand"    
+  },    
+  {
+    "kanji": "四千",
+    "romaji": "yonsen",
+    "furigana": "よんせん",
+    "indonesia": "empat ribu",
+    "english": "four thousand"    
+  },
+  {
+    "kanji": "五千",
+    "romaji": "gosen",
+    "furigana": "ごせん",
+    "indonesia": "lima ribu",
+    "english": "five thousand"    
+  },
+  {
+    "kanji": "六千",
+    "romaji": "rokusen",
+    "furigana": "ろくせん",
+    "indonesia": "enam ribu",
+    "english": "six thousand"    
+  },
+  {
+    "kanji": "七千",
+    "romaji": "nanasen",
+    "furigana": "ななせん",
+    "indonesia": "tujuh ribu",
+    "english": "seven thousand"    
+  },
+  {
+    "kanji": "八千",
+    "romaji": "hassen",
+    "furigana": "はっせん",
+    "indonesia": "delapan ribu",
+    "english": "eight thousand"    
+  },
+  {
+    "kanji": "九千",
+    "romaji": "kyuusen",
+    "furigana": "きゅうせん",
+    "indonesia": "sembilan ribu",
+    "english": "nine thousand"    
+  },
+  {
+    "kanji": "一万",
+    "romaji": "ichiman",
+    "furigana": "いちまん",
+    "indonesia": "sepuluh ribu",
+    "english": "ten thousand"    
+  },
+  {
+    "kanji": "一万一千",
+    "romaji": "ichimanissen",
+    "furigana": "いちまんいっせん",
+    "indonesia": "sebelas ribu",
+    "english": "eleven thousand"    
+  },
+  {
+    "kanji": "一万二千",
+    "romaji": "ichimannisen",
+    "furigana": "いちまんいせん",
+    "indonesia": "dua belas ribu",
+    "english": "twelve thousand"    
+  },
+  {
+    "kanji": "一万三千",
+    "romaji": "ichimansanzen",
+    "furigana": "いちまんさんぜん",
+    "indonesia": "tiga belas ribu",
+    "english": "thirteen thousand"    
+  },
+  {
+    "kanji": "一万四千",
+    "romaji": "ichimanyonsen",
+    "furigana": "いちまんよんせん",
+    "indonesia": "empat belas ribu",
+    "english": "fourteen thousand"    
+  },
+  {
+    "kanji": "一万五千",
+    "romaji": "ichimangosen",
+    "furigana": "いちまんごせん",
+    "indonesia": "lima belas ribu",
+    "english": "fiveteen thousand"    
+  },    
+  {
+    "kanji": "一万六千",
+    "romaji": "ichimanrokusen",
+    "furigana": "いちまんろくせん",
+    "indonesia": "enam belas ribu",
+    "english": "sixteen thousand"    
+  },
+  {
+    "kanji": "一万七千",
+    "romaji": "ichimannanasen",
+    "furigana": "いちまんななせん",
+    "indonesia": "tujuh belas ribu",
+    "english": "seventeen thousand"    
+  },
+  {
+    "kanji": "一万八千",
+    "romaji": "ichimanhassen",
+    "furigana": "いちまんはっせん",
+    "indonesia": "delapan belas ribu",
+    "english": "eighteen thousand"    
+  },  
+  {
+    "kanji": "一万九千",
+    "romaji": "ichimankyuusen",
+    "furigana": "いちまんきゅうせん",
+    "indonesia": "sembilan belas ribu",
+    "english": "nineteen thousand"    
+  },
+  {
+    "kanji": "二万",
+    "romaji": "niman",
+    "furigana": "にまん",
+    "indonesia": "dua puluh ribu",
+    "english": "twenty thousand"    
+  },
+  {
+    "kanji": "三万",
+    "romaji": "sanman",
+    "furigana": "さんまん",
+    "indonesia": "tiga puluh ribu",
+    "english": "thirty thousand"    
+  },
+  {
+    "kanji": "四万",
+    "romaji": "yonman",
+    "furigana": "よんまん",
+    "indonesia": "empat puluh ribu",
+    "english": "forty thousand"    
+  },    
+  {
+    "kanji": "五万",
+    "romaji": "goman",
+    "furigana": "ごまん",
+    "indonesia": "lima puluh ribu",
+    "english": "fifty thousand"    
+  },
+  {
+    "kanji": "六万",
+    "romaji": "rokuman",
+    "furigana": "ろくまん",
+    "indonesia": "enam puluh ribu",
+    "english": "sixty thousand"    
+  },
+  {
+    "kanji": "七万",
+    "romaji": "nanaman",
+    "furigana": "ななまん",
+    "indonesia": "tujuh puluh ribu",
+    "english": "seventy thousand"    
+  },
+  {
+    "kanji": "八万",
+    "romaji": "hachiman",
+    "furigana": "はちまん",
+    "indonesia": "delapan puluh ribu",
+    "english": "eighty thousand"    
+  },
+  {
+    "kanji": "九万",
+    "romaji": "kyuuman",
+    "furigana": "きゅうまん",
+    "indonesia": "sembilan puluh ribu",
+    "english": "ninety thousand"    
+  },
+  {
+    "kanji": "十万",
+    "romaji": "juuman",
+    "furigana": "じゅうまん",
+    "indonesia": "seratus ribu",
+    "english": "one hundred thousand"    
+  },            
+  {
+    "kanji": "二十万",
+    "romaji": "nijuuman",
+    "furigana": "にじゅうまん",
+    "indonesia": "dua ratus ribu",
+    "english": "two hundred thousand"    
+  },
+  {
+    "kanji": "三十万",
+    "romaji": "sanjuuman",
+    "furigana": "さんじゅうまん",
+    "indonesia": "tiga ratus ribu",
+    "english": "three hundred thousand"    
+  },
+  {
+    "kanji": "四十万",
+    "romaji": "yonjuuman",
+    "furigana": "よんじゅうまん",
+    "indonesia": "empat ratus ribu",
+    "english": "four hundred thousand"    
+  },
+  {
+    "kanji": "五十万",
+    "romaji": "gojuuman",
+    "furigana": "ごじゅうまん",
+    "indonesia": "lima ratus ribu",
+    "english": "five hundred thousand"    
+  },            
+  {
+    "kanji": "六十万",
+    "romaji": "rokujuuman",
+    "furigana": "ろくじゅうまん",
+    "indonesia": "enam ratus ribu",
+    "english": "six hundred thousand"    
+  },
+  {
+    "kanji": "七十万",
+    "romaji": "nanajuuman",
+    "furigana": "ななじゅうまん",
+    "indonesia": "tujuh ratus ribu",
+    "english": "seven hundred thousand"    
+  },
+  {
+    "kanji": "八十万",
+    "romaji": "hachijuuman",
+    "furigana": "はちじゅうまん",
+    "indonesia": "delapan ratus ribu",
+    "english": "eight hundred thousand"    
+  },
+  {
+    "kanji": "九十万",
+    "romaji": "kyuujuuman",
+    "furigana": "きゅうじゅうまん",
+    "indonesia": "sembilan ratus ribu",
+    "english": "nine hundred thousand"    
+  },            
+  {
+    "kanji": "百万",
+    "romaji": "hyakuman",
+    "furigana": "ひゃくまん",
+    "indonesia": "satu juta",
+    "english": "one million"    
+  },
+  {
+    "kanji": "二百万",
+    "romaji": "nihyakuman",
+    "furigana": "にひゃくまん",
+    "indonesia": "dua juta",
+    "english": "two million"    
+  },
+  {
+    "kanji": "三百万",
+    "romaji": "sanbyakuman",
+    "furigana": "さんびゃくまん",
+    "indonesia": "tiga juta",
+    "english": "three million"    
+  },
+  {
+    "kanji": "四百万",
+    "romaji": "yonhyakuman",
+    "furigana": "よんひゃくまん",
+    "indonesia": "empat juta",
+    "english": "four million"    
+  },              
+  {
+    "kanji": "五百万",
+    "romaji": "gohyakuman",
+    "furigana": "ごひゃくまん",
+    "indonesia": "lima juta",
+    "english": "five million"    
+  },
+  {
+    "kanji": "六百万",
+    "romaji": "roppyakuman",
+    "furigana": "ろっぴゃくまん",
+    "indonesia": "enam juta",
+    "english": "six million"    
+  },
+  {
+    "kanji": "七百万",
+    "romaji": "nanahyakuman",
+    "furigana": "ななひゃくまん",
+    "indonesia": "tujuh juta",
+    "english": "seven million"    
+  },
+  {
+    "kanji": "八百万",
+    "romaji": "happyakuman",
+    "furigana": "はっぴゃくまん",
+    "indonesia": "delapan juta",
+    "english": "eight million"    
+  },                  
+  {
+    "kanji": "九百万",
+    "romaji": "kyuuhyakuman",
+    "furigana": "きゅうひゃくまん",
+    "indonesia": "sembilan juta",
+    "english": "nine million"    
+  },
+  {
+    "kanji": "一千万",
+    "romaji": "issenman",
+    "furigana": "いっせんまん",
+    "indonesia": "sepuluh juta",
+    "english": "ten million"    
+  },
+  {
+    "kanji": "二千万",
+    "romaji": "nisenman",
+    "furigana": "にせんまん",
+    "indonesia": "dua puluh juta",
+    "english": "twenty million"    
+  },
+  {
+    "kanji": "三千万",
+    "romaji": "sanzenman",
+    "furigana": "さんぜんまん",
+    "indonesia": "tiga puluh juta",
+    "english": "thirty milion"    
+  },                  
+  {
+    "kanji": "四千万",
+    "romaji": "yonsenman",
+    "furigana": "よんせんまん",
+    "indonesia": "empat puluh juta",
+    "english": "forty million"    
+  },
+  {
+    "kanji": "五千万",
+    "romaji": "gosenman",
+    "furigana": "ごせんまん",
+    "indonesia": "lima puluh juta",
+    "english": "fifty million"    
+  },
+  {
+    "kanji": "六千万",
+    "romaji": "rokusenman",
+    "furigana": "ろくせんまん",
+    "indonesia": "enam puluh juta",
+    "english": "sixty million"    
+  },
+  {
+    "kanji": "七千万",
+    "romaji": "nanasenman",
+    "furigana": "ななせんまん",
+    "indonesia": "tujuh puluh juta",
+    "english": "seventy million"    
+  },                  
+  {
+    "kanji": "八千万",
+    "romaji": "hassenman",
+    "furigana": "はっせんまん",
+    "indonesia": "delapan puluh juta",
+    "english": "eighty million"    
+  },
+  {
+    "kanji": "九千万",
+    "romaji": "kyuusenman",
+    "furigana": "きゅうせんまん",
+    "indonesia": "sembilan puluh juta",
+    "english": "ninety million"    
+  }
+]
